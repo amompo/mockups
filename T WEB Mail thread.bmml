@@ -328,7 +328,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="1809" controlTypeID="com.balsamiq.mockups::Image" x="495" y="248" w="37" h="35" measuredW="157" measuredH="155" zOrder="52" locked="false" isInGroup="-1">
+    <control controlID="1809" controlTypeID="com.balsamiq.mockups::Image" x="497" y="248" w="37" h="35" measuredW="77" measuredH="79" zOrder="52" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./Screen%2520Shot%25202012-07-23%2520at%25201.01.23%2520PM.png</src>
         <text/>
