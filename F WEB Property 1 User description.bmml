@@ -41,6 +41,8 @@
     </control>
     <control controlID="1374" controlTypeID="com.balsamiq.mockups::Image" x="409" y="297" w="131" h="127" measuredW="196" measuredH="196" zOrder="42" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>F%20WEB%20Profile%26bm%3BF%20WEB%20Profile.bmml%26bm%3BF%20WEB%20Profile.bmml%26bm%3BF%20WEB%20Profile.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22279%2C234%2C410%2C361%22%20href%3D%22F%2520WEB%2520Profile.bmml%22%20alt%3D%22F%20WEB%20Profile%22%20id%3D%221374%22/%3E</map>
         <src>./Screen%2520Shot%25202012-07-17%2520at%25202.19.22%2520PM.png</src>
         <text/>
       </controlProperties>

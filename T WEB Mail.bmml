@@ -580,22 +580,30 @@
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>
-    <control controlID="1790" controlTypeID="com.balsamiq.mockups::Icon" x="830" y="114" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="88" locked="false" isInGroup="-1">
+    <control controlID="1790" controlTypeID="com.balsamiq.mockups::Icon" x="800" y="114" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="88" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16750848</color>
         <icon>Number6Icon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1791" controlTypeID="com.balsamiq.mockups::Label" x="860" y="116" w="-1" h="-1" measuredW="85" measuredH="21" zOrder="89" locked="false" isInGroup="-1">
+    <control controlID="1791" controlTypeID="com.balsamiq.mockups::Label" x="830" y="116" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="89" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>threads%20found</text>
+        <text>properties%20with%20mail</text>
       </controlProperties>
     </control>
     <control controlID="1793" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="197" w="189" h="246" measuredW="100" measuredH="70" zOrder="90" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
         <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1794" controlTypeID="com.balsamiq.mockups::Canvas" x="80" y="197" w="190" h="246" measuredW="100" measuredH="70" zOrder="91" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <href>T%20WEB%20Mail%20thread%26bm%3BT%20WEB%20Mail%20thread.bmml%26bm%3BT%20WEB%20Mail%20thread.bmml%26bm%3BT%20WEB%20Mail%20thread.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2216%2C163%2C206%2C409%22%20href%3D%22T%2520WEB%2520Mail%2520thread.bmml%22%20alt%3D%22T%20WEB%20Mail%20thread%22%20id%3D%221794%22/%3E</map>
       </controlProperties>
     </control>
   </controls>
