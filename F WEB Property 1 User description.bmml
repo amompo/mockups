@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1151" measuredH="1855" mockupW="1021" mockupH="1792">
+<mockup version="1.0" skin="sketch" measuredW="1609" measuredH="1855" mockupW="1479" mockupH="1792">
   <controls>
     <control controlID="1368" controlTypeID="com.balsamiq.mockups::SubTitle" x="375" y="157" w="-1" h="-1" measuredW="99" measuredH="18" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -499,6 +499,11 @@
         <color>10470904</color>
         <size>11</size>
         <text>Contact%20the%20landlord</text>
+      </controlProperties>
+    </control>
+    <control controlID="1532" controlTypeID="com.balsamiq.mockups::StickyNote" x="1304" y="120" w="305" h="215" measuredW="109" measuredH="123" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Landlord%20profile%20should%20only%20be%20seen%20by%20the%20registered%20paying%20tenant.%0AIf%20a%20free%20user%20clicks%20on%20the%20landlord%20profile%20photo%20he%20is%20informed%20that%20access%20is%20only%20for%20registed%20users.</text>
       </controlProperties>
     </control>
   </controls>

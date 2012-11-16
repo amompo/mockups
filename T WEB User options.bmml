@@ -310,10 +310,10 @@
         <bold>true</bold>
         <borderStyle>none</borderStyle>
         <color>16750848</color>
-        <href>T%20WEB%20User%20options%26bm%3BT%20WEB%20User%20options.bmml%26bm%3BT%20WEB%20User%20options.bmml%26bm%3BT%20WEB%20User%20options.bmml</href>
+        <href>T%20WEB%20Search%26bm%3BT%20WEB%20Search.bmml%26bm%3BT%20WEB%20Search.bmml%26bm%3BT%20WEB%20Search.bmml</href>
         <icon>UpFillTriangleIcon%7Cxsmall</icon>
         <labelPosition>left</labelPosition>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2284%2C713%2C192%2C734%22%20href%3D%22T%2520WEB%2520User%2520options.bmml%22%20alt%3D%22T%20WEB%20User%20options%22%20id%3D%221751%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2284%2C713%2C192%2C734%22%20href%3D%22T%2520WEB%2520Search.bmml%22%20alt%3D%22T%20WEB%20Search%22%20id%3D%221751%22/%3E</map>
         <text>Hi%20%22Username%22</text>
       </controlProperties>
     </control>
@@ -1416,6 +1416,11 @@
       <controlProperties>
         <color>2848996</color>
         <icon>Help2Icon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1934" controlTypeID="com.balsamiq.mockups::List" x="153" y="618" w="-1" h="-1" measuredW="100" measuredH="126" zOrder="204" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Log%20out%0AYour%20Profile%0AYour%20account</text>
       </controlProperties>
     </control>
   </controls>
