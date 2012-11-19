@@ -2151,9 +2151,9 @@
     <control controlID="2654" controlTypeID="com.balsamiq.mockups::Icon" x="1542" y="2011" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="327" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
-        <href>L%20WEB%20Own%20property%26bm%3BL%20WEB%20Own%20property.bmml%26bm%3BL%20WEB%20Own%20property.bmml%26bm%3BL%20WEB%20Own%20property.bmml</href>
+        <href>L%20WEB%20Manage%20property%26bm%3BL%20WEB%20Manage%20property.bmml%26bm%3BL%20WEB%20Manage%20property.bmml%26bm%3BL%20WEB%20Manage%20property.bmml</href>
         <icon>SaveIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221478%2C1981%2C1494%2C1997%22%20href%3D%22L%2520WEB%2520Own%2520property.bmml%22%20alt%3D%22L%20WEB%20Own%20property%22%20id%3D%222654%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221478%2C1981%2C1494%2C1997%22%20href%3D%22L%2520WEB%2520Manage%2520property.bmml%22%20alt%3D%22L%20WEB%20Manage%20property%22%20id%3D%222654%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="2655" controlTypeID="com.balsamiq.mockups::Icon" x="1542" y="1885" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="328" locked="false" isInGroup="-1">

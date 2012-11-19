@@ -34,12 +34,12 @@
         <borderStyle>none</borderStyle>
       </controlProperties>
     </control>
-    <control controlID="1930" controlTypeID="com.balsamiq.mockups::Label" x="487" y="330" w="-1" h="-1" measuredW="93" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="1930" controlTypeID="com.balsamiq.mockups::Label" x="487" y="330" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>2848996</color>
         <size>16</size>
-        <text>Friendlyrent</text>
+        <text>Danrent</text>
       </controlProperties>
     </control>
     <control controlID="1931" controlTypeID="com.balsamiq.mockups::Button" x="974" y="706" w="93" h="41" measuredW="85" measuredH="29" zOrder="6" locked="false" isInGroup="-1">

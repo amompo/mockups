@@ -8,379 +8,13 @@
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="778" controlTypeID="com.balsamiq.mockups::Image" x="81" y="198" w="187" h="146" measuredW="412" measuredH="309" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1353329_nbzw.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="792" controlTypeID="com.balsamiq.mockups::Canvas" x="80" y="343" w="188" h="100" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-      </controlProperties>
-    </control>
-    <control controlID="793" controlTypeID="com.balsamiq.mockups::Label" x="88" y="419" w="118" h="24" measuredW="81" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>16750848</color>
-        <size>16</size>
-        <text>6500%20DKK</text>
-      </controlProperties>
-    </control>
-    <control controlID="794" controlTypeID="com.balsamiq.mockups::Paragraph" x="88" y="368" w="172" h="58" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>10</size>
-        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
-      </controlProperties>
-    </control>
-    <control controlID="795" controlTypeID="com.balsamiq.mockups::Label" x="86" y="345" w="118" h="24" measuredW="103" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>6710886</color>
-        <size>16</size>
-        <text>Beautiful%20title</text>
-      </controlProperties>
-    </control>
-    <control controlID="796" controlTypeID="com.balsamiq.mockups::Icon" x="209" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="797" controlTypeID="com.balsamiq.mockups::Icon" x="246" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="798" controlTypeID="com.balsamiq.mockups::Icon" x="228" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="801" controlTypeID="com.balsamiq.mockups::Image" x="284" y="198" w="187" h="146" measuredW="412" measuredH="309" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1353329_nbzw.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="802" controlTypeID="com.balsamiq.mockups::Canvas" x="283" y="343" w="188" h="100" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-      </controlProperties>
-    </control>
-    <control controlID="803" controlTypeID="com.balsamiq.mockups::Label" x="291" y="419" w="118" h="24" measuredW="81" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>16750848</color>
-        <size>16</size>
-        <text>6500%20DKK</text>
-      </controlProperties>
-    </control>
-    <control controlID="804" controlTypeID="com.balsamiq.mockups::Paragraph" x="291" y="368" w="172" h="58" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>10</size>
-        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
-      </controlProperties>
-    </control>
-    <control controlID="805" controlTypeID="com.balsamiq.mockups::Label" x="289" y="345" w="118" h="24" measuredW="103" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>6710886</color>
-        <size>16</size>
-        <text>Beautiful%20title</text>
-      </controlProperties>
-    </control>
-    <control controlID="806" controlTypeID="com.balsamiq.mockups::Icon" x="412" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="807" controlTypeID="com.balsamiq.mockups::Icon" x="449" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="808" controlTypeID="com.balsamiq.mockups::Icon" x="431" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="809" controlTypeID="com.balsamiq.mockups::Image" x="485" y="198" w="187" h="146" measuredW="412" measuredH="309" zOrder="17" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1353329_nbzw.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="810" controlTypeID="com.balsamiq.mockups::Canvas" x="484" y="343" w="188" h="100" measuredW="100" measuredH="70" zOrder="18" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-      </controlProperties>
-    </control>
-    <control controlID="811" controlTypeID="com.balsamiq.mockups::Label" x="492" y="419" w="118" h="24" measuredW="81" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>16750848</color>
-        <size>16</size>
-        <text>6500%20DKK</text>
-      </controlProperties>
-    </control>
-    <control controlID="812" controlTypeID="com.balsamiq.mockups::Paragraph" x="492" y="368" w="172" h="58" measuredW="200" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>10</size>
-        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
-      </controlProperties>
-    </control>
-    <control controlID="813" controlTypeID="com.balsamiq.mockups::Label" x="490" y="345" w="118" h="24" measuredW="103" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>6710886</color>
-        <size>16</size>
-        <text>Beautiful%20title</text>
-      </controlProperties>
-    </control>
-    <control controlID="814" controlTypeID="com.balsamiq.mockups::Icon" x="613" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="22" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="815" controlTypeID="com.balsamiq.mockups::Icon" x="650" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="23" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="816" controlTypeID="com.balsamiq.mockups::Icon" x="632" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="24" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="818" controlTypeID="com.balsamiq.mockups::Image" x="686" y="198" w="187" h="146" measuredW="412" measuredH="309" zOrder="25" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1353329_nbzw.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="819" controlTypeID="com.balsamiq.mockups::Canvas" x="685" y="343" w="188" h="100" measuredW="100" measuredH="70" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-      </controlProperties>
-    </control>
-    <control controlID="820" controlTypeID="com.balsamiq.mockups::Label" x="693" y="419" w="118" h="24" measuredW="81" measuredH="24" zOrder="27" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>16750848</color>
-        <size>16</size>
-        <text>6500%20DKK</text>
-      </controlProperties>
-    </control>
-    <control controlID="821" controlTypeID="com.balsamiq.mockups::Paragraph" x="693" y="368" w="172" h="58" measuredW="200" measuredH="80" zOrder="28" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>10</size>
-        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
-      </controlProperties>
-    </control>
-    <control controlID="822" controlTypeID="com.balsamiq.mockups::Label" x="691" y="345" w="118" h="24" measuredW="103" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>6710886</color>
-        <size>16</size>
-        <text>Beautiful%20title</text>
-      </controlProperties>
-    </control>
-    <control controlID="823" controlTypeID="com.balsamiq.mockups::Icon" x="814" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="30" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="824" controlTypeID="com.balsamiq.mockups::Icon" x="851" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="31" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="825" controlTypeID="com.balsamiq.mockups::Icon" x="833" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="32" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="826" controlTypeID="com.balsamiq.mockups::Image" x="885" y="198" w="187" h="146" measuredW="412" measuredH="309" zOrder="33" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1353329_nbzw.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="827" controlTypeID="com.balsamiq.mockups::Canvas" x="884" y="343" w="188" h="100" measuredW="100" measuredH="70" zOrder="34" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-      </controlProperties>
-    </control>
-    <control controlID="828" controlTypeID="com.balsamiq.mockups::Label" x="892" y="419" w="118" h="24" measuredW="81" measuredH="24" zOrder="35" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>16750848</color>
-        <size>16</size>
-        <text>6500%20DKK</text>
-      </controlProperties>
-    </control>
-    <control controlID="829" controlTypeID="com.balsamiq.mockups::Paragraph" x="892" y="368" w="172" h="58" measuredW="200" measuredH="80" zOrder="36" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>10</size>
-        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
-      </controlProperties>
-    </control>
-    <control controlID="830" controlTypeID="com.balsamiq.mockups::Label" x="890" y="345" w="118" h="24" measuredW="103" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>6710886</color>
-        <size>16</size>
-        <text>Beautiful%20title</text>
-      </controlProperties>
-    </control>
-    <control controlID="831" controlTypeID="com.balsamiq.mockups::Icon" x="1013" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="38" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="832" controlTypeID="com.balsamiq.mockups::Icon" x="1050" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="39" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="833" controlTypeID="com.balsamiq.mockups::Icon" x="1032" y="422" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="40" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="834" controlTypeID="com.balsamiq.mockups::Image" x="81" y="456" w="187" h="146" measuredW="412" measuredH="309" zOrder="41" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1353329_nbzw.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="835" controlTypeID="com.balsamiq.mockups::Canvas" x="80" y="601" w="188" h="100" measuredW="100" measuredH="70" zOrder="42" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-      </controlProperties>
-    </control>
-    <control controlID="836" controlTypeID="com.balsamiq.mockups::Label" x="88" y="677" w="118" h="24" measuredW="81" measuredH="24" zOrder="43" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>16750848</color>
-        <size>16</size>
-        <text>6500%20DKK</text>
-      </controlProperties>
-    </control>
-    <control controlID="837" controlTypeID="com.balsamiq.mockups::Paragraph" x="88" y="626" w="172" h="58" measuredW="200" measuredH="80" zOrder="44" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>10</size>
-        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
-      </controlProperties>
-    </control>
-    <control controlID="838" controlTypeID="com.balsamiq.mockups::Label" x="86" y="603" w="118" h="24" measuredW="103" measuredH="24" zOrder="45" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>6710886</color>
-        <size>16</size>
-        <text>Beautiful%20title</text>
-      </controlProperties>
-    </control>
-    <control controlID="839" controlTypeID="com.balsamiq.mockups::Icon" x="209" y="680" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="46" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="840" controlTypeID="com.balsamiq.mockups::Icon" x="246" y="680" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="47" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="841" controlTypeID="com.balsamiq.mockups::Icon" x="228" y="680" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="48" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="1542" controlTypeID="com.balsamiq.mockups::Icon" x="247" y="348" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="49" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>6710886</color>
-        <icon>WorldIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="1543" controlTypeID="com.balsamiq.mockups::Icon" x="247" y="606" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="50" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>6710886</color>
-        <icon>WorldIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="1544" controlTypeID="com.balsamiq.mockups::Icon" x="451" y="347" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="51" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>6710886</color>
-        <icon>WorldIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="1546" controlTypeID="com.balsamiq.mockups::Icon" x="649" y="349" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="52" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>6710886</color>
-        <icon>WorldIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="1548" controlTypeID="com.balsamiq.mockups::Icon" x="853" y="348" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="53" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>6710886</color>
-        <icon>WorldIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="1550" controlTypeID="com.balsamiq.mockups::Icon" x="1051" y="348" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="54" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>6710886</color>
-        <icon>WorldIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="1600" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="727" w="1018" h="54" measuredW="100" measuredH="70" zOrder="55" locked="false" isInGroup="-1">
+    <control controlID="1600" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="727" w="1018" h="54" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>3355443</borderColor>
         <color>3355443</color>
       </controlProperties>
     </control>
-    <control controlID="1601" controlTypeID="com.balsamiq.mockups::Image" x="76" y="730" w="48" h="47" measuredW="235" measuredH="214" zOrder="56" locked="false" isInGroup="-1">
+    <control controlID="1601" controlTypeID="com.balsamiq.mockups::Image" x="76" y="730" w="48" h="47" measuredW="235" measuredH="214" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <href>F%20WEB%20Main%20cover%26bm%3BF%20WEB%20Main%20cover.bmml%26bm%3BF%20WEB%20Main%20cover.bmml%26bm%3BF%20WEB%20Main%20cover.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2212%2C696%2C60%2C743%22%20href%3D%22F%2520WEB%2520Main%2520cover.bmml%22%20alt%3D%22F%20WEB%20Main%20cover%22%20id%3D%221601%22/%3E</map>
@@ -388,67 +22,67 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="1602" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="781" w="1018" h="25" measuredW="100" measuredH="70" zOrder="57" locked="false" isInGroup="-1">
+    <control controlID="1602" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="781" w="1018" h="25" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>6710886</borderColor>
         <color>6710886</color>
       </controlProperties>
     </control>
-    <control controlID="1603" controlTypeID="com.balsamiq.mockups::Label" x="73" y="784" w="-1" h="-1" measuredW="361" measuredH="17" zOrder="58" locked="false" isInGroup="-1">
+    <control controlID="1603" controlTypeID="com.balsamiq.mockups::Label" x="73" y="784" w="-1" h="-1" measuredW="361" measuredH="17" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13421772</color>
         <size>10</size>
         <text>Boligportal.dk%20%28c%29%20Frederiskberg%20Alle%2C%2012%2C%201000%20Frederiksberg%2C%20Copenhagen%2C%20DK.</text>
       </controlProperties>
     </control>
-    <control controlID="1604" controlTypeID="com.balsamiq.mockups::ComboBox" x="927" y="740" w="44" h="-1" measuredW="41" measuredH="28" zOrder="59" locked="false" isInGroup="-1">
+    <control controlID="1604" controlTypeID="com.balsamiq.mockups::ComboBox" x="927" y="740" w="44" h="-1" measuredW="41" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="1605" controlTypeID="com.balsamiq.mockups::Image" x="929" y="744" w="20" h="22" measuredW="64" measuredH="64" zOrder="60" locked="false" isInGroup="-1">
+    <control controlID="1605" controlTypeID="com.balsamiq.mockups::Image" x="929" y="744" w="20" h="22" measuredW="64" measuredH="64" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./Danish%2520flag%2520web.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="1606" controlTypeID="com.balsamiq.mockups::ComboBox" x="971" y="740" w="44" h="-1" measuredW="44" measuredH="28" zOrder="61" locked="false" isInGroup="-1">
+    <control controlID="1606" controlTypeID="com.balsamiq.mockups::ComboBox" x="971" y="740" w="44" h="-1" measuredW="44" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>_</text>
       </controlProperties>
     </control>
-    <control controlID="1607" controlTypeID="com.balsamiq.mockups::Icon" x="971" y="743" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="62" locked="false" isInGroup="-1">
+    <control controlID="1607" controlTypeID="com.balsamiq.mockups::Icon" x="971" y="743" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>EuroIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1609" controlTypeID="com.balsamiq.mockups::Icon" x="1025" y="785" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="63" locked="false" isInGroup="-1">
+    <control controlID="1609" controlTypeID="com.balsamiq.mockups::Icon" x="1025" y="785" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <icon>FacebookIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1610" controlTypeID="com.balsamiq.mockups::Icon" x="1051" y="785" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="64" locked="false" isInGroup="-1">
+    <control controlID="1610" controlTypeID="com.balsamiq.mockups::Icon" x="1051" y="785" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <icon>TwitterIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1611" controlTypeID="com.balsamiq.mockups::Icon" x="997" y="785" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="65" locked="false" isInGroup="-1">
+    <control controlID="1611" controlTypeID="com.balsamiq.mockups::Icon" x="997" y="785" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <icon>GoogleIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1612" controlTypeID="com.balsamiq.mockups::Icon" x="967" y="785" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="66" locked="false" isInGroup="-1">
+    <control controlID="1612" controlTypeID="com.balsamiq.mockups::Icon" x="967" y="785" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <icon>RSSIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1613" controlTypeID="com.balsamiq.mockups::Icon" x="928" y="785" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="67" locked="false" isInGroup="-1">
+    <control controlID="1613" controlTypeID="com.balsamiq.mockups::Icon" x="928" y="785" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <href>F%20WEB%20FAQ%26bm%3BF%20WEB%20FAQ.bmml%26bm%3BF%20WEB%20FAQ.bmml%26bm%3BF%20WEB%20FAQ.bmml</href>
@@ -456,44 +90,44 @@
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22864%2C751%2C880%2C767%22%20href%3D%22F%2520WEB%2520FAQ.bmml%22%20alt%3D%22F%20WEB%20FAQ%22%20id%3D%221613%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="1614" controlTypeID="com.balsamiq.mockups::ModalScreen" x="952" y="781" w="131" h="25" measuredW="320" measuredH="240" zOrder="68" locked="false" isInGroup="-1"/>
-    <control controlID="1615" controlTypeID="com.balsamiq.mockups::Icon" x="532" y="740" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="69" locked="false" isInGroup="-1">
+    <control controlID="1614" controlTypeID="com.balsamiq.mockups::ModalScreen" x="952" y="781" w="131" h="25" measuredW="320" measuredH="240" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="1615" controlTypeID="com.balsamiq.mockups::Icon" x="532" y="740" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <icon>StarIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="1616" controlTypeID="com.balsamiq.mockups::Icon" x="571" y="740" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="70" locked="false" isInGroup="-1">
+    <control controlID="1616" controlTypeID="com.balsamiq.mockups::Icon" x="571" y="740" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <icon>UsersIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="1617" controlTypeID="com.balsamiq.mockups::Icon" x="551" y="737" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="71" locked="false" isInGroup="-1">
+    <control controlID="1617" controlTypeID="com.balsamiq.mockups::Icon" x="551" y="737" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16750848</color>
         <icon>Number7Icon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1618" controlTypeID="com.balsamiq.mockups::Icon" x="597" y="737" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="72" locked="false" isInGroup="-1">
+    <control controlID="1618" controlTypeID="com.balsamiq.mockups::Icon" x="597" y="737" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16750848</color>
         <icon>Number7Icon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1676" controlTypeID="com.balsamiq.mockups::Icon" x="488" y="742" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="73" locked="false" isInGroup="-1">
+    <control controlID="1676" controlTypeID="com.balsamiq.mockups::Icon" x="488" y="742" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <icon>SearchIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="1678" controlTypeID="com.balsamiq.mockups::ComboBox" x="1013" y="740" w="54" h="-1" measuredW="44" measuredH="28" zOrder="74" locked="false" isInGroup="-1">
+    <control controlID="1678" controlTypeID="com.balsamiq.mockups::ComboBox" x="1013" y="740" w="54" h="-1" measuredW="44" measuredH="28" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>_</text>
       </controlProperties>
     </control>
-    <control controlID="1681" controlTypeID="com.balsamiq.mockups::Label" x="1015" y="742" w="-1" h="-1" measuredW="33" measuredH="26" zOrder="75" locked="false" isInGroup="-1">
+    <control controlID="1681" controlTypeID="com.balsamiq.mockups::Label" x="1015" y="742" w="-1" h="-1" measuredW="33" measuredH="26" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>13576743</color>
@@ -502,12 +136,12 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="1687" controlTypeID="com.balsamiq.mockups::ComboBox" x="944" y="162" w="-1" h="-1" measuredW="130" measuredH="23" zOrder="76" locked="false" isInGroup="-1">
+    <control controlID="1687" controlTypeID="com.balsamiq.mockups::ComboBox" x="944" y="162" w="-1" h="-1" measuredW="130" measuredH="23" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Sort%20the%20mail%20by...</text>
       </controlProperties>
     </control>
-    <control controlID="1751" controlTypeID="com.balsamiq.mockups::IconLabel" x="147" y="747" w="-1" h="-1" measuredW="108" measuredH="21" zOrder="77" locked="false" isInGroup="-1">
+    <control controlID="1751" controlTypeID="com.balsamiq.mockups::IconLabel" x="147" y="747" w="-1" h="-1" measuredW="108" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <borderStyle>none</borderStyle>
@@ -517,61 +151,25 @@
         <text>Hi%20%22Username%22</text>
       </controlProperties>
     </control>
-    <control controlID="1752" controlTypeID="com.balsamiq.mockups::Icon" x="618" y="741" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="78" locked="false" isInGroup="-1">
+    <control controlID="1752" controlTypeID="com.balsamiq.mockups::Icon" x="618" y="741" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13421772</color>
         <icon>EmailIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="1753" controlTypeID="com.balsamiq.mockups::Icon" x="646" y="735" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="79" locked="false" isInGroup="-1">
+    <control controlID="1753" controlTypeID="com.balsamiq.mockups::Icon" x="646" y="735" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16750848</color>
         <icon>Number6Icon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1779" controlTypeID="com.balsamiq.mockups::Image" x="94" y="202" w="59" h="60" measuredW="128" measuredH="128" zOrder="80" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1352399466_email.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="1780" controlTypeID="com.balsamiq.mockups::Image" x="301" y="202" w="59" h="60" measuredW="128" measuredH="128" zOrder="81" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1352399466_email.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="1781" controlTypeID="com.balsamiq.mockups::Image" x="489" y="196" w="59" h="60" measuredW="128" measuredH="128" zOrder="82" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1352399477_email_open.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="1782" controlTypeID="com.balsamiq.mockups::Image" x="695" y="202" w="59" h="60" measuredW="128" measuredH="128" zOrder="83" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1352399535_email_reply.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="1783" controlTypeID="com.balsamiq.mockups::Image" x="892" y="202" w="59" h="60" measuredW="128" measuredH="128" zOrder="84" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1352399535_email_reply.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="1784" controlTypeID="com.balsamiq.mockups::Image" x="96" y="461" w="59" h="60" measuredW="128" measuredH="128" zOrder="85" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./1352399477_email_open.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="1788" controlTypeID="com.balsamiq.mockups::Canvas" x="66" y="104" w="1018" h="47" measuredW="100" measuredH="70" zOrder="86" locked="false" isInGroup="-1">
+    <control controlID="1788" controlTypeID="com.balsamiq.mockups::Canvas" x="66" y="104" w="1018" h="47" measuredW="100" measuredH="70" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>3355443</borderColor>
         <color>3355443</color>
       </controlProperties>
     </control>
-    <control controlID="1789" controlTypeID="com.balsamiq.mockups::PointyButton" x="957" y="113" w="113" h="-1" measuredW="111" measuredH="27" zOrder="87" locked="false" isInGroup="-1">
+    <control controlID="1789" controlTypeID="com.balsamiq.mockups::PointyButton" x="957" y="113" w="113" h="-1" measuredW="111" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16750848</color>
         <direction>center</direction>
@@ -580,30 +178,454 @@
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>
-    <control controlID="1790" controlTypeID="com.balsamiq.mockups::Icon" x="800" y="114" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="88" locked="false" isInGroup="-1">
+    <control controlID="1790" controlTypeID="com.balsamiq.mockups::Icon" x="800" y="114" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16750848</color>
         <icon>Number6Icon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1791" controlTypeID="com.balsamiq.mockups::Label" x="830" y="116" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="89" locked="false" isInGroup="-1">
+    <control controlID="1791" controlTypeID="com.balsamiq.mockups::Label" x="830" y="116" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <text>properties%20with%20mail</text>
       </controlProperties>
     </control>
-    <control controlID="1793" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="197" w="189" h="246" measuredW="100" measuredH="70" zOrder="90" locked="false" isInGroup="-1">
+    <control controlID="1795" controlTypeID="com.balsamiq.mockups::Image" x="81" y="197" w="187" h="146" measuredW="412" measuredH="309" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
-        <backgroundAlpha>0</backgroundAlpha>
+        <src>./1353329_nbzw.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1796" controlTypeID="com.balsamiq.mockups::Image" x="285" y="197" w="187" h="146" measuredW="412" measuredH="309" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1353329_nbzw.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1797" controlTypeID="com.balsamiq.mockups::Image" x="486" y="197" w="187" h="146" measuredW="412" measuredH="309" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1353329_nbzw.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1798" controlTypeID="com.balsamiq.mockups::Image" x="88" y="199" w="39" h="40" measuredW="128" measuredH="128" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1352399466_email.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1799" controlTypeID="com.balsamiq.mockups::Image" x="291" y="199" w="39" h="40" measuredW="128" measuredH="128" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1352399535_email_reply.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1800" controlTypeID="com.balsamiq.mockups::Image" x="489" y="194" w="39" h="40" measuredW="128" measuredH="128" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1352399477_email_open.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1801" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="343" w="188" h="91" measuredW="100" measuredH="70" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
         <borderStyle>none</borderStyle>
       </controlProperties>
     </control>
-    <control controlID="1794" controlTypeID="com.balsamiq.mockups::Canvas" x="80" y="197" w="190" h="246" measuredW="100" measuredH="70" zOrder="91" locked="false" isInGroup="-1">
+    <control controlID="1802" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="420" w="188" h="22" measuredW="100" measuredH="70" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
-        <backgroundAlpha>0</backgroundAlpha>
         <borderStyle>none</borderStyle>
-        <href>T%20WEB%20Mail%20thread%26bm%3BT%20WEB%20Mail%20thread.bmml%26bm%3BT%20WEB%20Mail%20thread.bmml%26bm%3BT%20WEB%20Mail%20thread.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2216%2C163%2C206%2C409%22%20href%3D%22T%2520WEB%2520Mail%2520thread.bmml%22%20alt%3D%22T%20WEB%20Mail%20thread%22%20id%3D%221794%22/%3E</map>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="1803" controlTypeID="com.balsamiq.mockups::Label" x="89" y="419" w="118" h="24" measuredW="81" measuredH="24" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16750848</color>
+        <size>16</size>
+        <text>6500%20DKK</text>
+      </controlProperties>
+    </control>
+    <control controlID="1804" controlTypeID="com.balsamiq.mockups::Paragraph" x="87" y="366" w="172" h="58" measuredW="200" measuredH="80" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
+      </controlProperties>
+    </control>
+    <control controlID="1805" controlTypeID="com.balsamiq.mockups::Label" x="87" y="345" w="118" h="24" measuredW="103" measuredH="24" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6710886</color>
+        <size>16</size>
+        <text>Beautiful%20title</text>
+      </controlProperties>
+    </control>
+    <control controlID="1806" controlTypeID="com.balsamiq.mockups::Icon" x="249" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>WorldIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1807" controlTypeID="com.balsamiq.mockups::Icon" x="229" y="424" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>HeartIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1808" controlTypeID="com.balsamiq.mockups::Icon" x="207" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>40463</color>
+        <icon>StarIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1809" controlTypeID="com.balsamiq.mockups::Canvas" x="284" y="343" w="188" h="91" measuredW="100" measuredH="70" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1810" controlTypeID="com.balsamiq.mockups::Canvas" x="284" y="420" w="186" h="22" measuredW="100" measuredH="70" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="1811" controlTypeID="com.balsamiq.mockups::Label" x="292" y="419" w="118" h="24" measuredW="81" measuredH="24" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16750848</color>
+        <size>16</size>
+        <text>6500%20DKK</text>
+      </controlProperties>
+    </control>
+    <control controlID="1812" controlTypeID="com.balsamiq.mockups::Paragraph" x="290" y="366" w="172" h="58" measuredW="200" measuredH="80" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
+      </controlProperties>
+    </control>
+    <control controlID="1813" controlTypeID="com.balsamiq.mockups::Label" x="290" y="345" w="118" h="24" measuredW="103" measuredH="24" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6710886</color>
+        <size>16</size>
+        <text>Beautiful%20title</text>
+      </controlProperties>
+    </control>
+    <control controlID="1814" controlTypeID="com.balsamiq.mockups::Icon" x="452" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>WorldIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1815" controlTypeID="com.balsamiq.mockups::Icon" x="432" y="424" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>HeartIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1816" controlTypeID="com.balsamiq.mockups::Icon" x="410" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16776960</color>
+        <icon>StarIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1817" controlTypeID="com.balsamiq.mockups::Canvas" x="485" y="343" w="188" h="91" measuredW="100" measuredH="70" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1818" controlTypeID="com.balsamiq.mockups::Canvas" x="485" y="420" w="188" h="22" measuredW="100" measuredH="70" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="1819" controlTypeID="com.balsamiq.mockups::Label" x="493" y="419" w="118" h="24" measuredW="81" measuredH="24" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16750848</color>
+        <size>16</size>
+        <text>6500%20DKK</text>
+      </controlProperties>
+    </control>
+    <control controlID="1820" controlTypeID="com.balsamiq.mockups::Paragraph" x="491" y="366" w="172" h="58" measuredW="200" measuredH="80" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
+      </controlProperties>
+    </control>
+    <control controlID="1821" controlTypeID="com.balsamiq.mockups::Label" x="491" y="345" w="118" h="24" measuredW="103" measuredH="24" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6710886</color>
+        <size>16</size>
+        <text>Beautiful%20title</text>
+      </controlProperties>
+    </control>
+    <control controlID="1822" controlTypeID="com.balsamiq.mockups::Icon" x="653" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>WorldIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1823" controlTypeID="com.balsamiq.mockups::Icon" x="633" y="424" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>HeartIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1824" controlTypeID="com.balsamiq.mockups::Icon" x="611" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>StarIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1825" controlTypeID="com.balsamiq.mockups::Icon" x="185" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>UserIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1826" controlTypeID="com.balsamiq.mockups::Icon" x="388" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>UserIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1827" controlTypeID="com.balsamiq.mockups::Icon" x="589" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="62" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>UserIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1828" controlTypeID="com.balsamiq.mockups::Image" x="686" y="197" w="187" h="146" measuredW="412" measuredH="309" zOrder="63" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1353329_nbzw.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1829" controlTypeID="com.balsamiq.mockups::Image" x="887" y="197" w="187" h="146" measuredW="412" measuredH="309" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1353329_nbzw.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1830" controlTypeID="com.balsamiq.mockups::Image" x="692" y="199" w="39" h="40" measuredW="128" measuredH="128" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1352399535_email_reply.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1831" controlTypeID="com.balsamiq.mockups::Image" x="890" y="194" w="39" h="40" measuredW="128" measuredH="128" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1352399477_email_open.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1832" controlTypeID="com.balsamiq.mockups::Canvas" x="685" y="343" w="188" h="91" measuredW="100" measuredH="70" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1833" controlTypeID="com.balsamiq.mockups::Canvas" x="685" y="420" w="186" h="22" measuredW="100" measuredH="70" zOrder="68" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="1834" controlTypeID="com.balsamiq.mockups::Label" x="693" y="419" w="118" h="24" measuredW="81" measuredH="24" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16750848</color>
+        <size>16</size>
+        <text>6500%20DKK</text>
+      </controlProperties>
+    </control>
+    <control controlID="1835" controlTypeID="com.balsamiq.mockups::Paragraph" x="691" y="366" w="172" h="58" measuredW="200" measuredH="80" zOrder="70" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
+      </controlProperties>
+    </control>
+    <control controlID="1836" controlTypeID="com.balsamiq.mockups::Label" x="691" y="345" w="118" h="24" measuredW="103" measuredH="24" zOrder="71" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6710886</color>
+        <size>16</size>
+        <text>Beautiful%20title</text>
+      </controlProperties>
+    </control>
+    <control controlID="1837" controlTypeID="com.balsamiq.mockups::Icon" x="853" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="72" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>WorldIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1838" controlTypeID="com.balsamiq.mockups::Icon" x="833" y="424" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="73" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>HeartIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1839" controlTypeID="com.balsamiq.mockups::Icon" x="811" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="74" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16776960</color>
+        <icon>StarIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1840" controlTypeID="com.balsamiq.mockups::Canvas" x="886" y="343" w="188" h="91" measuredW="100" measuredH="70" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1841" controlTypeID="com.balsamiq.mockups::Canvas" x="886" y="420" w="186" h="22" measuredW="100" measuredH="70" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="1842" controlTypeID="com.balsamiq.mockups::Label" x="894" y="419" w="118" h="24" measuredW="81" measuredH="24" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16750848</color>
+        <size>16</size>
+        <text>6500%20DKK</text>
+      </controlProperties>
+    </control>
+    <control controlID="1843" controlTypeID="com.balsamiq.mockups::Paragraph" x="892" y="366" w="172" h="58" measuredW="200" measuredH="80" zOrder="78" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
+      </controlProperties>
+    </control>
+    <control controlID="1844" controlTypeID="com.balsamiq.mockups::Label" x="892" y="345" w="118" h="24" measuredW="103" measuredH="24" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6710886</color>
+        <size>16</size>
+        <text>Beautiful%20title</text>
+      </controlProperties>
+    </control>
+    <control controlID="1845" controlTypeID="com.balsamiq.mockups::Icon" x="1054" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="80" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>WorldIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1846" controlTypeID="com.balsamiq.mockups::Icon" x="1034" y="424" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="81" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>HeartIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1847" controlTypeID="com.balsamiq.mockups::Icon" x="1012" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="82" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>StarIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1848" controlTypeID="com.balsamiq.mockups::Icon" x="789" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="83" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>UserIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1849" controlTypeID="com.balsamiq.mockups::Icon" x="990" y="423" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="84" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>UserIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1850" controlTypeID="com.balsamiq.mockups::Image" x="81" y="454" w="187" h="146" measuredW="412" measuredH="309" zOrder="85" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1353329_nbzw.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1851" controlTypeID="com.balsamiq.mockups::Image" x="88" y="456" w="39" h="40" measuredW="128" measuredH="128" zOrder="86" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./1352399466_email.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1852" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="600" w="188" h="91" measuredW="100" measuredH="70" zOrder="87" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1853" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="677" w="188" h="22" measuredW="100" measuredH="70" zOrder="88" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="1854" controlTypeID="com.balsamiq.mockups::Label" x="89" y="676" w="118" h="24" measuredW="81" measuredH="24" zOrder="89" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16750848</color>
+        <size>16</size>
+        <text>6500%20DKK</text>
+      </controlProperties>
+    </control>
+    <control controlID="1855" controlTypeID="com.balsamiq.mockups::Paragraph" x="87" y="623" w="172" h="58" measuredW="200" measuredH="80" zOrder="90" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
+      </controlProperties>
+    </control>
+    <control controlID="1856" controlTypeID="com.balsamiq.mockups::Label" x="87" y="602" w="118" h="24" measuredW="103" measuredH="24" zOrder="91" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6710886</color>
+        <size>16</size>
+        <text>Beautiful%20title</text>
+      </controlProperties>
+    </control>
+    <control controlID="1857" controlTypeID="com.balsamiq.mockups::Icon" x="249" y="680" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="92" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>WorldIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1858" controlTypeID="com.balsamiq.mockups::Icon" x="229" y="681" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="93" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>HeartIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1859" controlTypeID="com.balsamiq.mockups::Icon" x="207" y="680" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>40463</color>
+        <icon>StarIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1860" controlTypeID="com.balsamiq.mockups::Icon" x="185" y="680" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="95" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>UserIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
   </controls>
