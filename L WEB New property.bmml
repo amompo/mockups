@@ -143,7 +143,7 @@
     <control controlID="1805" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="64" y="31" w="1024" h="768" measuredW="450" measuredH="400" zOrder="92" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Friendlyrent%0Ahttp%3A//www.friendlyrent.dk</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/landlord/new_property/location</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>

@@ -3,7 +3,7 @@
     <control controlID="767" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="64" y="34" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Danrent%0Ahttp%3A//www.danrent.dk/mail%0A%20%0AMeta%20tag%3AAportments%20for%20rent%20in%20...%20%28Is%20it%20possible%20to%20have%20an%20automatic%20meta%20tag%20generator%20that%20autofils%20the%20description%20according%20to%20the%20searched%20sentence%29%20%28I%20think%20google%20recommended%20not%20to%20have%20the%20property%20searcher%20crawled.%20This%20was%20becouse%20it%20could%20be%20less%20beneficial%20that%20expected%2C%20it%20could%20even%20have%20the%20opposed%20impact%20and%20make%20it%20a%20negative%20one.%29%20Careful%20with%20this.</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/tenant/mail%0A%20%0AMeta%20tag%3AAportments%20for%20rent%20in%20...%20%28Is%20it%20possible%20to%20have%20an%20automatic%20meta%20tag%20generator%20that%20autofils%20the%20description%20according%20to%20the%20searched%20sentence%29%20%28I%20think%20google%20recommended%20not%20to%20have%20the%20property%20searcher%20crawled.%20This%20was%20becouse%20it%20could%20be%20less%20beneficial%20that%20expected%2C%20it%20could%20even%20have%20the%20opposed%20impact%20and%20make%20it%20a%20negative%20one.%29%20Careful%20with%20this.</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -626,6 +626,14 @@
         <borderStyle>none</borderStyle>
         <color>6710886</color>
         <icon>UserIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1861" controlTypeID="com.balsamiq.mockups::Canvas" x="77" y="197" w="193" h="245" measuredW="100" measuredH="70" zOrder="96" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <href>T%20WEB%20Mail%20thread%26bm%3BT%20WEB%20Mail%20thread.bmml%26bm%3BT%20WEB%20Mail%20thread.bmml%26bm%3BT%20WEB%20Mail%20thread.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2213%2C163%2C206%2C408%22%20href%3D%22T%2520WEB%2520Mail%2520thread.bmml%22%20alt%3D%22T%20WEB%20Mail%20thread%22%20id%3D%221861%22/%3E</map>
       </controlProperties>
     </control>
   </controls>

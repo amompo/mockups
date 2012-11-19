@@ -1367,5 +1367,13 @@
         <icon>EmailIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
+    <control controlID="1913" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="217" w="189" h="246" measuredW="100" measuredH="70" zOrder="197" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <href>F%20WEB%20Property%204%20Photo%26bm%3BF%20WEB%20Property%204%20Photo.bmml%26bm%3BF%20WEB%20Property%204%20Photo.bmml%26bm%3BF%20WEB%20Property%204%20Photo.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2217%2C183%2C206%2C429%22%20href%3D%22F%2520WEB%2520Property%25204%2520Photo.bmml%22%20alt%3D%22F%20WEB%20Property%204%20Photo%22%20id%3D%221913%22/%3E</map>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

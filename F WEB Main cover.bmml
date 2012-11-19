@@ -414,5 +414,21 @@
         <text>This%20needs%20to%20be%20done%20still%21%21</text>
       </controlProperties>
     </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Button" x="155" y="617" w="138" h="33" measuredW="24" measuredH="27" zOrder="63" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027263</color>
+        <rotation>90</rotation>
+        <size>8</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Paragraph" x="176" y="621" w="92" h="29" measuredW="200" measuredH="80" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>16777215</color>
+        <size>8</size>
+        <text>Invite%20friends%20and%20earn%20%0Aa%20free%20subscription</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

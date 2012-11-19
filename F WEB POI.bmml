@@ -45,7 +45,7 @@
     <control controlID="454" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="67" y="33" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Danrent%0Ahttp%3A//www.danrent.dk/properties/map/places_of_interest</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/search_properties/map/places_of_interest</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -84,7 +84,6 @@
     </control>
     <control controlID="474" controlTypeID="com.balsamiq.mockups::Image" x="469" y="407" w="106" h="84" measuredW="600" measuredH="450" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22402%2C374%2C508%2C458%22%20href%3D%22F%2520WEB%2520Property.bmml%22%20alt%3D%22F%20WEB%20Property%22%20id%3D%22474%22/%3E</map>
         <src>./1337918_erzk.jpg</src>
         <text/>
       </controlProperties>
@@ -92,21 +91,18 @@
     <control controlID="475" controlTypeID="com.balsamiq.mockups::Canvas" x="468" y="491" w="107" h="38" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22401%2C458%2C508%2C496%22%20href%3D%22F%2520WEB%2520Property.bmml%22%20alt%3D%22F%20WEB%20Property%22%20id%3D%22475%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="476" controlTypeID="com.balsamiq.mockups::Label" x="473" y="529" w="67" h="14" measuredW="52" measuredH="17" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>16750848</color>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22406%2C496%2C473%2C510%22%20href%3D%22F%2520WEB%2520Property.bmml%22%20alt%3D%22F%20WEB%20Property%22%20id%3D%22476%22/%3E</map>
         <size>10</size>
         <text>6500%20DKK</text>
       </controlProperties>
     </control>
     <control controlID="477" controlTypeID="com.balsamiq.mockups::Paragraph" x="473" y="505" w="97" h="33" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22406%2C472%2C503%2C505%22%20href%3D%22F%2520WEB%2520Property.bmml%22%20alt%3D%22F%20WEB%20Property%22%20id%3D%22477%22/%3E</map>
         <size>8</size>
         <text>55%20m2%20apartment%20on%204th%20floor%0A2/1%20Furnished%20rooms%0AValby%2C%20Copenhagen%2C%20DK%0A12/5/2012%20-%2012/5/2013</text>
       </controlProperties>
@@ -115,7 +111,6 @@
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22405%2C459%2C472%2C473%22%20href%3D%22F%2520WEB%2520Property.bmml%22%20alt%3D%22F%20WEB%20Property%22%20id%3D%22478%22/%3E</map>
         <size>8</size>
         <text>Beautiful%20title</text>
       </controlProperties>
@@ -125,7 +120,6 @@
         <borderStyle>none</borderStyle>
         <color>40463</color>
         <icon>StarIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22490%2C497%2C506%2C513%22%20href%3D%22F%2520WEB%2520Property.bmml%22%20alt%3D%22F%20WEB%20Property%22%20id%3D%22480%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="499" controlTypeID="com.balsamiq.mockups::IconLabel" x="84" y="635" w="-1" h="-1" measuredW="94" measuredH="44" zOrder="19" locked="false" isInGroup="-1">

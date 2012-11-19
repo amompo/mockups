@@ -3,7 +3,7 @@
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1154" y="65" w="1024" h="1294" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Friendlyrent%0Ahttp%3A//www.friendlyrent.dk</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/landlord/manage_property/beautiful_title</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -11,7 +11,7 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="74" w="1088" h="1293" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Friendlyrent%0Ahttp%3A//www.friendlyrent.dk</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/landlord/manage_property/beautiful_title</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -519,7 +519,7 @@
     <control controlID="98" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="2235" y="64" w="1024" h="1357" measuredW="450" measuredH="400" zOrder="71" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Friendlyrent%0Ahttp%3A//www.friendlyrent.dk</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/landlord/manage_property/beautiful_title</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -1187,7 +1187,7 @@
         <text>Health</text>
       </controlProperties>
     </control>
-    <control controlID="191" controlTypeID="com.balsamiq.mockups::IconLabel" x="2639" y="603" w="60" h="-1" measuredW="54" measuredH="44" zOrder="164" locked="false" isInGroup="-1">
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::IconLabel" x="2639" y="603" w="60" h="-1" measuredW="55" measuredH="44" zOrder="164" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
         <icon>BookIcon%7Csmall</icon>
@@ -3393,7 +3393,7 @@
         <text>Health</text>
       </controlProperties>
     </control>
-    <control controlID="521" controlTypeID="com.balsamiq.mockups::IconLabel" x="2631" y="2363" w="60" h="-1" measuredW="54" measuredH="44" zOrder="474" locked="false" isInGroup="-1">
+    <control controlID="521" controlTypeID="com.balsamiq.mockups::IconLabel" x="2631" y="2363" w="60" h="-1" measuredW="55" measuredH="44" zOrder="474" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
         <icon>BookIcon%7Csmall</icon>

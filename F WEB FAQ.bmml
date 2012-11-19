@@ -15,7 +15,7 @@
     <control controlID="578" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="65" y="30" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Friendlyrent%0Ahttp%3A//www.friendlyrent.dk</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/frequent_asked_questions</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -218,16 +218,16 @@
     <control controlID="762" controlTypeID="com.balsamiq.mockups::Icon" x="930" y="787" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
-        <href>F%20WEB%20FAQ%26bm%3BF%20WEB%20FAQ.bmml%26bm%3BF%20WEB%20FAQ.bmml%26bm%3BF%20WEB%20FAQ.bmml</href>
         <icon>Info2Icon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22865%2C757%2C881%2C773%22%20href%3D%22F%2520WEB%2520FAQ.bmml%22%20alt%3D%22F%20WEB%20FAQ%22%20id%3D%22762%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="763" controlTypeID="com.balsamiq.mockups::ModalScreen" x="954" y="783" w="131" h="25" measuredW="320" measuredH="240" zOrder="32" locked="false" isInGroup="-1"/>
     <control controlID="764" controlTypeID="com.balsamiq.mockups::Icon" x="534" y="742" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
+        <href>F%20WEB%20Favorites%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml</href>
         <icon>StarIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22469%2C712%2C501%2C744%22%20href%3D%22F%2520WEB%2520Favorites.bmml%22%20alt%3D%22F%20WEB%20Favorites%22%20id%3D%22764%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="765" controlTypeID="com.balsamiq.mockups::Icon" x="573" y="742" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="34" locked="false" isInGroup="-1">

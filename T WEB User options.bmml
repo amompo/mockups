@@ -3,7 +3,7 @@
     <control controlID="1307" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1229" y="34" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Danrent%0Ahttp%3A//www.danrent.dk/properties/map%0A%20%0AMeta%20tag%3AAportments%20for%20rent%20in%20...%20%28Is%20it%20possible%20to%20have%20an%20automatic%20meta%20tag%20generator%20that%20autofils%20the%20description%20according%20to%20the%20searched%20sentence%29%20%28I%20think%20google%20recommended%20not%20to%20have%20the%20property%20searcher%20crawled.%20This%20was%20becouse%20it%20could%20be%20less%20beneficial%20that%20expected%2C%20it%20could%20even%20have%20the%20opposed%20impact%20and%20make%20it%20a%20negative%20one.%29%20Careful%20with%20this.</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/search_properties/map%0A%20%0AMeta%20tag%3AAportments%20for%20rent%20in%20...%20%28Is%20it%20possible%20to%20have%20an%20automatic%20meta%20tag%20generator%20that%20autofils%20the%20description%20according%20to%20the%20searched%20sentence%29%20%28I%20think%20google%20recommended%20not%20to%20have%20the%20property%20searcher%20crawled.%20This%20was%20becouse%20it%20could%20be%20less%20beneficial%20that%20expected%2C%20it%20could%20even%20have%20the%20opposed%20impact%20and%20make%20it%20a%20negative%20one.%29%20Careful%20with%20this.</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
