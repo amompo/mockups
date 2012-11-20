@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1432" measuredH="801" mockupW="1365" mockupH="768">
+<mockup version="1.0" skin="sketch" measuredW="1485" measuredH="801" mockupW="1418" mockupH="768">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="67" y="33" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -371,14 +371,14 @@
         <bold>true</bold>
         <color>15658734</color>
         <size>13</size>
-        <text>We%20deliver%20easy%20to%20understand%20legal%20advice%20so%20that%20your%20rental%20experience%20becomes%20a%20smooth%20one.</text>
+        <text>Danrent%20offers%20the%20best%20price%20in%20Denmark%2C%20because%20we%20believe%20that%20housing%20is%20a%20right%20not%20a%20privilege.</text>
       </controlProperties>
     </control>
     <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="1152" y="424" w="-1" h="-1" measuredW="61" measuredH="17" zOrder="57" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
-        <href>F%20WEB%20Main%20cover%20-%20Free%20legal%20advice%26bm%3BF%20WEB%20Main%20cover%20-%20Free%20legal%20advice.bmml%26bm%3BF%20WEB%20Main%20cover%20-%20Free%20legal%20advice.bmml%26bm%3BF%20WEB%20Main%20cover%20-%20Free%20legal%20advice.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221085%2C391%2C1146%2C408%22%20href%3D%22F%2520WEB%2520Main%2520cover%2520-%2520Free%2520legal%2520advice.bmml%22%20alt%3D%22F%20WEB%20Main%20cover%20-%20Free%20legal%20advice%22%20id%3D%2257%22/%3E</map>
+        <href>F%20WEB%20Main%20cover%20-%20Best%20price%26bm%3BF%20WEB%20Main%20cover%20-%20Best%20price.bmml%26bm%3BF%20WEB%20Main%20cover%20-%20Best%20price.bmml%26bm%3BF%20WEB%20Main%20cover%20-%20Best%20price.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221085%2C391%2C1146%2C408%22%20href%3D%22F%2520WEB%2520Main%2520cover%2520-%2520Best%2520price.bmml%22%20alt%3D%22F%20WEB%20Main%20cover%20-%20Best%20price%22%20id%3D%2257%22/%3E</map>
         <size>10</size>
         <text>Learn%20more</text>
       </controlProperties>
@@ -409,7 +409,7 @@
         <text>Learn%20more</text>
       </controlProperties>
     </control>
-    <control controlID="63" controlTypeID="com.balsamiq.mockups::StickyNote" x="1323" y="322" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="62" locked="false" isInGroup="-1">
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::StickyNote" x="1376" y="325" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="62" locked="false" isInGroup="-1">
       <controlProperties>
         <text>This%20needs%20to%20be%20done%20still%21%21</text>
       </controlProperties>
