@@ -231,7 +231,7 @@
       <controlProperties>
         <color>14540253</color>
         <href>F%20WEB%20Favorites%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml</href>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22468%2C706%2C500%2C738%22%20href%3D%22F%2520WEB%2520Favorites.bmml%22%20alt%3D%22F%20WEB%20Favorites%22%20id%3D%221615%22/%3E</map>
       </controlProperties>
     </control>
@@ -534,7 +534,7 @@
       <controlProperties>
         <color>14540253</color>
         <href>F%20WEB%20Favorites%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml</href>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221634%2C706%2C1666%2C738%22%20href%3D%22F%2520WEB%2520Favorites.bmml%22%20alt%3D%22F%20WEB%20Favorites%22%20id%3D%221800%22/%3E</map>
       </controlProperties>
     </control>
