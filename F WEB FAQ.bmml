@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1089" measuredH="808" mockupW="1024" mockupH="778">
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1089" measuredH="808" mockupW="1024" mockupH="778">
   <controls>
     <control controlID="528" controlTypeID="com.balsamiq.mockups::Paragraph" x="305" y="239" w="387" h="159" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
@@ -162,7 +162,7 @@
         <text>Boligportal.dk%20%28c%29%20Frederiskberg%20Alle%2C%2012%2C%201000%20Frederiksberg%2C%20Copenhagen%2C%20DK.</text>
       </controlProperties>
     </control>
-    <control controlID="753" controlTypeID="com.balsamiq.mockups::ComboBox" x="929" y="742" w="44" h="-1" measuredW="41" measuredH="28" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="753" controlTypeID="com.balsamiq.mockups::ComboBox" x="929" y="742" w="44" h="-1" measuredW="41" measuredH="29" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>1</text>
@@ -174,7 +174,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="755" controlTypeID="com.balsamiq.mockups::ComboBox" x="973" y="742" w="44" h="-1" measuredW="44" measuredH="28" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="755" controlTypeID="com.balsamiq.mockups::ComboBox" x="973" y="742" w="44" h="-1" measuredW="44" measuredH="29" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>_</text>
@@ -221,12 +221,12 @@
         <icon>Info2Icon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="763" controlTypeID="com.balsamiq.mockups::ModalScreen" x="954" y="783" w="131" h="25" measuredW="320" measuredH="240" zOrder="32" locked="false" isInGroup="-1"/>
+    <control controlID="763" controlTypeID="com.balsamiq.mockups::ModalScreen" x="954" y="783" w="131" h="25" measuredW="318" measuredH="240" zOrder="32" locked="false" isInGroup="-1"/>
     <control controlID="764" controlTypeID="com.balsamiq.mockups::Icon" x="534" y="742" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <href>F%20WEB%20Favorites%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml</href>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22469%2C712%2C501%2C744%22%20href%3D%22F%2520WEB%2520Favorites.bmml%22%20alt%3D%22F%20WEB%20Favorites%22%20id%3D%22764%22/%3E</map>
       </controlProperties>
     </control>
@@ -250,7 +250,7 @@
         <icon>Number7Icon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="768" controlTypeID="com.balsamiq.mockups::ComboBox" x="1015" y="742" w="54" h="-1" measuredW="44" measuredH="28" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="768" controlTypeID="com.balsamiq.mockups::ComboBox" x="1015" y="742" w="54" h="-1" measuredW="44" measuredH="29" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>_</text>

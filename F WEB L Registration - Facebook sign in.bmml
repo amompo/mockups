@@ -1,0 +1,49 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1091" measuredH="801" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="1821" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="67" y="33" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/landlord_registration/facebook</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1927" controlTypeID="com.balsamiq.mockups::Image" x="73" y="107" w="1012" h="654" measuredW="628" measuredH="401" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Screen%2520Shot%25202012-07-18%2520at%252011.04.14%2520AM.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1928" controlTypeID="com.balsamiq.mockups::Button" x="875" y="706" w="93" h="41" measuredW="75" measuredH="30" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>L%20WEB%20New%20property%26bm%3BL%20WEB%20New%20property.bmml%26bm%3BL%20WEB%20New%20property.bmml%26bm%3BL%20WEB%20New%20property.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22808%2C673%2C901%2C714%22%20href%3D%22L%2520WEB%2520New%2520property.bmml%22%20alt%3D%22L%20WEB%20New%20property%22%20id%3D%221928%22/%3E</map>
+        <size>20</size>
+        <text>Log%20in</text>
+      </controlProperties>
+    </control>
+    <control controlID="1929" controlTypeID="com.balsamiq.mockups::Canvas" x="484" y="319" w="113" h="57" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1930" controlTypeID="com.balsamiq.mockups::Label" x="487" y="330" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>2848996</color>
+        <size>16</size>
+        <text>Danrent</text>
+      </controlProperties>
+    </control>
+    <control controlID="1931" controlTypeID="com.balsamiq.mockups::Button" x="974" y="706" w="93" h="41" measuredW="84" measuredH="30" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <href>F%20WEB%20L%20Registration%20-%20Direct%20contact%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22907%2C673%2C1000%2C714%22%20href%3D%22F%2520WEB%2520L%2520Registration%2520-%2520Direct%2520contact.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%20-%20Direct%20contact%22%20id%3D%221931%22/%3E</map>
+        <size>20</size>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -9,7 +9,7 @@
     <control controlID="81" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="67" y="33" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Danrent%0Ahttp%3A//www.danrent.dk/information/free_legal_advice</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/information/best_price</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -156,7 +156,7 @@
     <control controlID="260" controlTypeID="com.balsamiq.mockups::Icon" x="536" y="730" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
       </controlProperties>
     </control>
     <control controlID="261" controlTypeID="com.balsamiq.mockups::Icon" x="575" y="730" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
@@ -274,7 +274,7 @@
         <text>Odense</text>
       </controlProperties>
     </control>
-    <control controlID="304" controlTypeID="com.balsamiq.mockups::ModalScreen" x="68" y="104" w="1021" h="695" measuredW="318" measuredH="240" zOrder="46" locked="false" isInGroup="-1"/>
+    <control controlID="304" controlTypeID="com.balsamiq.mockups::ModalScreen" x="68" y="102" w="1021" h="695" measuredW="318" measuredH="240" zOrder="46" locked="false" isInGroup="-1"/>
     <control controlID="305" controlTypeID="com.balsamiq.mockups::TextArea" x="342" y="120" w="480" h="566" measuredW="200" measuredH="140" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>0</borderColor>
@@ -291,7 +291,7 @@
     </control>
     <control controlID="307" controlTypeID="com.balsamiq.mockups::Paragraph" x="366" y="186" w="435" h="459" measuredW="200" measuredH="80" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Danrent%27s%20team%20has%20made%20a%20tremendous%20effort%20to%20lower%20the%20business%20costs%20and%20to%20maximize%20it%20in%20all%20possible%20ways.%20We%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0AFor%20most%20of%20us%20there%20is%20always%20a%20first%20time%20when%20renting%20a%20place%2C%20no%20matter%20if%20you%20are%20a%20landlord%20or%20a%20tenant.%20Danrent%20gives%20the%20kind%20of%20support%20that%20is%20easily%20understood%20by%20a%20wide%20audience%20in%20order%20to%20make%20the%20renting%20process%20a%20smoother%20one.%0A%20%0AThe%20real%20estate%20renting%20laws%20are%20different%20in%20each%20country%2C%20so%20for%20those%20who%20come%20to%20Denmark%20for%20the%20first%20time%20it%20can%20be%20quite%20challenging%20to%20understand%20them%20or%20even%20to%20search%20for%20them.%20We%20deliver%20a%20simple%20and%20coherent%20guideline%20on%20the%20danish%20renting%20laws%20to%20help%20with%20the%20rental%20process.%0A%20%0AIf%20you%20post%20a%20property%20with%20us%20don%27t%20worry%20about%20writting%20a%20rent%20contract%20from%20scratch.%20Danrent%20will%20provide%20them%20to%20you%20totally%20FREE%20and%20in%20any%20language%20you%20choose%20so%20that%20you%20can%20understand%20everything%20that%20is%20written.%20The%20contract%20will%20even%20come%20prefilled%20with%20the%20profile%20information%20that%20you%20choose%20to%20give%20us.</text>
+        <text>Danrent%27s%20team%20has%20made%20a%20tremendous%20effort%20to%20lower%20the%20business%20costs%20and%20to%20maximize%20it%20in%20all%20possible%20ways.%20We%20are%20proud%20to%20say%20that%20Danrent%20is%20by%20far%20the%20cheapest%20in%20comparison%20to%20the%20quality%20of%20the%20services%20delivered.%0A%20%0ADanrent%20was%20created%20with%20the%20firm%20purpose%20to%20easen%20some%20of%20the%20difficulties%20that%20we%20all%20experience%20to%20find%20a%20place%20to%20rent%20in%20Denmark%2C%20especially%20in%20Copenhagen.%20We%20believe%20that%20housing%20is%20a%20right%20and%20not%20a%20privilege%2C%20so%20we%20decided%20to%20make%20our%20share%20by%20lowering%20out%20prices%20as%20much%20as%20possible.%0A%20%0AOur%20biggest%20concern%20is%20that%20the%20price%20offered%20is%20a%20fair%20one%20and%20that%20it%20provides%20an%20alterative%20to%20the%20usually%20expensive%20real%20estate%20agency.%20Our%20clients%20trust%20is%20gained%20dairly%20by%20delivering%20a%20service%20that%20is%20effective%20and%20honest.%20We%20do%20not%20believe%20that%20our%20company%20can%20be%20have%20any%20future%20if%20it%20is%20aimed%20at%20making%20fast%20money%20in%20an%20abussive%20manner%2C%20such%20as%20other%20websites%20have%20proven%20to%20do.%20</text>
       </controlProperties>
     </control>
     <control controlID="308" controlTypeID="com.balsamiq.mockups::Canvas" x="342" y="120" w="480" h="45" measuredW="100" measuredH="70" zOrder="49" locked="false" isInGroup="-1">
@@ -322,12 +322,6 @@
         <value>0</value>
       </controlProperties>
     </control>
-    <control controlID="324" controlTypeID="com.balsamiq.mockups::StickyNote" x="438" y="449" w="273" h="123" measuredW="109" measuredH="123" zOrder="54" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>13576743</color>
-        <text>Need%20to%20be%20done%21%21%21</text>
-      </controlProperties>
-    </control>
     <control controlID="325" controlTypeID="com.balsamiq.mockups::ModalScreen" x="68" y="130" w="287" h="125" measuredW="318" measuredH="240" zOrder="33" locked="false" isInGroup="-1"/>
     <control controlID="326" controlTypeID="com.balsamiq.mockups::Paragraph" x="100" y="145" w="240" h="38" measuredW="200" measuredH="80" zOrder="42" locked="false" isInGroup="-1">
       <controlProperties>
@@ -348,7 +342,6 @@
     <control controlID="328" controlTypeID="com.balsamiq.mockups::Label" x="100" y="231" w="-1" h="-1" measuredW="61" measuredH="17" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C198%2C93%2C215%22%20href%3D%22F%2520WEB%2520Main%2520cover%2520-%2520Best%2520price.bmml%22%20alt%3D%22F%20WEB%20Main%20cover%20-%20Best%20price%22%20id%3D%22328%22/%3E</map>
         <size>10</size>
         <text>Learn%20more</text>
       </controlProperties>

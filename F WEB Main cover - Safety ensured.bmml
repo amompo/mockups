@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1091" measuredH="801" mockupW="1024" mockupH="768">
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1091" measuredH="801" mockupW="1024" mockupH="768">
   <controls>
     <control controlID="79" controlTypeID="com.balsamiq.mockups::Image" x="113" y="560" w="222" h="146" measuredW="310" measuredH="233" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
@@ -53,16 +53,16 @@
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>
-    <control controlID="204" controlTypeID="com.balsamiq.mockups::TextInput" x="85" y="509" w="169" h="-1" measuredW="152" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="204" controlTypeID="com.balsamiq.mockups::TextInput" x="85" y="509" w="169" h="-1" measuredW="148" measuredH="23" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <size>12</size>
         <text>Where%20are%20you%20moving%20to%3F</text>
       </controlProperties>
     </control>
-    <control controlID="206" controlTypeID="com.balsamiq.mockups::Button" x="230" y="509" w="-1" h="-1" measuredW="24" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="206" controlTypeID="com.balsamiq.mockups::Button" x="230" y="509" w="-1" h="-1" measuredW="23" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <href>F%20WEB%20Search%26bm%3BF%20WEB%20Search.bmml%26bm%3BF%20WEB%20Search.bmml%26bm%3BF%20WEB%20Search.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22163%2C476%2C187%2C503%22%20href%3D%22F%2520WEB%2520Search.bmml%22%20alt%3D%22F%20WEB%20Search%22%20id%3D%22206%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22163%2C476%2C186%2C500%22%20href%3D%22F%2520WEB%2520Search.bmml%22%20alt%3D%22F%20WEB%20Search%22%20id%3D%22206%22/%3E</map>
         <text/>
       </controlProperties>
     </control>
@@ -91,7 +91,7 @@
         <text>Boligportal.dk%20%28c%29%20Frederiskberg%20Alle%2C%2012%2C%201000%20Frederiksberg%2C%20Copenhagen%2C%20DK.</text>
       </controlProperties>
     </control>
-    <control controlID="249" controlTypeID="com.balsamiq.mockups::ComboBox" x="931" y="730" w="44" h="-1" measuredW="41" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="249" controlTypeID="com.balsamiq.mockups::ComboBox" x="931" y="730" w="44" h="-1" measuredW="41" measuredH="29" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>1</text>
@@ -103,7 +103,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="251" controlTypeID="com.balsamiq.mockups::ComboBox" x="975" y="730" w="44" h="-1" measuredW="44" measuredH="28" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="251" controlTypeID="com.balsamiq.mockups::ComboBox" x="975" y="730" w="44" h="-1" measuredW="44" measuredH="29" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>_</text>
@@ -152,11 +152,11 @@
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22865%2C742%2C881%2C758%22%20href%3D%22F%2520WEB%2520FAQ.bmml%22%20alt%3D%22F%20WEB%20FAQ%22%20id%3D%22258%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="259" controlTypeID="com.balsamiq.mockups::ModalScreen" x="956" y="771" w="131" h="25" measuredW="320" measuredH="240" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="259" controlTypeID="com.balsamiq.mockups::ModalScreen" x="956" y="771" w="131" h="25" measuredW="318" measuredH="240" zOrder="24" locked="false" isInGroup="-1"/>
     <control controlID="260" controlTypeID="com.balsamiq.mockups::Icon" x="536" y="730" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
       </controlProperties>
     </control>
     <control controlID="261" controlTypeID="com.balsamiq.mockups::Icon" x="575" y="730" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
@@ -171,7 +171,7 @@
         <icon>SearchIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="265" controlTypeID="com.balsamiq.mockups::ComboBox" x="1017" y="730" w="54" h="-1" measuredW="44" measuredH="28" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="265" controlTypeID="com.balsamiq.mockups::ComboBox" x="1017" y="730" w="54" h="-1" measuredW="44" measuredH="29" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>_</text>
@@ -274,7 +274,7 @@
         <text>Odense</text>
       </controlProperties>
     </control>
-    <control controlID="304" controlTypeID="com.balsamiq.mockups::ModalScreen" x="70" y="104" w="1015" h="695" measuredW="320" measuredH="240" zOrder="46" locked="false" isInGroup="-1"/>
+    <control controlID="304" controlTypeID="com.balsamiq.mockups::ModalScreen" x="70" y="98" w="1015" h="695" measuredW="318" measuredH="240" zOrder="46" locked="false" isInGroup="-1"/>
     <control controlID="305" controlTypeID="com.balsamiq.mockups::TextArea" x="342" y="120" w="480" h="566" measuredW="200" measuredH="140" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>0</borderColor>
@@ -346,7 +346,7 @@
         <value>0</value>
       </controlProperties>
     </control>
-    <control controlID="324" controlTypeID="com.balsamiq.mockups::ModalScreen" x="69" y="130" w="287" h="125" measuredW="320" measuredH="240" zOrder="42" locked="false" isInGroup="-1"/>
+    <control controlID="324" controlTypeID="com.balsamiq.mockups::ModalScreen" x="69" y="130" w="287" h="125" measuredW="318" measuredH="240" zOrder="42" locked="false" isInGroup="-1"/>
     <control controlID="325" controlTypeID="com.balsamiq.mockups::Paragraph" x="101" y="145" w="240" h="38" measuredW="200" measuredH="80" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
