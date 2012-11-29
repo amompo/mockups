@@ -170,15 +170,15 @@
       <controlProperties>
         <color>16750848</color>
         <direction>center</direction>
-        <href>F%20WEB%20L%20Registration%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22893%2C79%2C1006%2C106%22%20href%3D%22F%2520WEB%2520L%2520Registration.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%22%20id%3D%221789%22/%3E</map>
+        <href>F%20WEB%20L%20Registration%20-%20Direct%20contact%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22893%2C79%2C1006%2C106%22%20href%3D%22F%2520WEB%2520L%2520Registration%2520-%2520Direct%2520contact.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%20-%20Direct%20contact%22%20id%3D%221789%22/%3E</map>
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>
     <control controlID="1790" controlTypeID="com.balsamiq.mockups::Image" x="194" y="197" w="187" h="182" measuredW="196" measuredH="196" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>T%20WEB%20Profile%26bm%3BT%20WEB%20Profile.bmml%26bm%3BT%20WEB%20Profile.bmml%26bm%3BT%20WEB%20Profile.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22130%2C163%2C317%2C345%22%20href%3D%22T%2520WEB%2520Profile.bmml%22%20alt%3D%22T%20WEB%20Profile%22%20id%3D%221790%22/%3E</map>
+        <href>T%20WEB%20Landlord%20profile%26bm%3BT%20WEB%20Landlord%20profile.bmml%26bm%3BT%20WEB%20Landlord%20profile.bmml%26bm%3BT%20WEB%20Landlord%20profile.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22130%2C163%2C317%2C345%22%20href%3D%22T%2520WEB%2520Landlord%2520profile.bmml%22%20alt%3D%22T%20WEB%20Landlord%20profile%22%20id%3D%221790%22/%3E</map>
         <src>./Screen%2520Shot%25202012-07-17%2520at%25202.19.22%2520PM.png</src>
         <text/>
       </controlProperties>
@@ -253,13 +253,13 @@
     <control controlID="1873" controlTypeID="com.balsamiq.mockups::Paragraph" x="778" y="533" w="95" h="67" measuredW="200" measuredH="80" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
         <size>11</size>
-        <text>You%0ASend%20at%2015%3A30%0A1/11/2012%0A%20</text>
+        <text>You%0ASent%20at%2015%3A30%0A1/11/2012%0A%20</text>
       </controlProperties>
     </control>
     <control controlID="1874" controlTypeID="com.balsamiq.mockups::Paragraph" x="292" y="630" w="95" h="67" measuredW="200" measuredH="80" zOrder="41" locked="false" isInGroup="-1">
       <controlProperties>
         <size>11</size>
-        <text>Alex%0ASend%20at%2017%3A09%0A1/11/2012%0A%20</text>
+        <text>Alex%0ASent%20at%2017%3A09%0A1/11/2012%0A%20</text>
       </controlProperties>
     </control>
     <control controlID="1875" controlTypeID="com.balsamiq.mockups::Image" x="884" y="743" w="73" h="69" measuredW="250" measuredH="313" zOrder="42" locked="false" isInGroup="-1">
@@ -278,7 +278,7 @@
     <control controlID="1877" controlTypeID="com.balsamiq.mockups::Paragraph" x="778" y="744" w="95" h="67" measuredW="200" measuredH="80" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
         <size>11</size>
-        <text>You%0ASend%20at%2018%3A54%0A1/11/2012%0A%20</text>
+        <text>You%0ASent%20at%2018%3A54%0A1/11/2012%0A%20</text>
       </controlProperties>
     </control>
     <control controlID="1878" controlTypeID="com.balsamiq.mockups::PointyButton" x="207" y="490" w="183" h="-1" measuredW="151" measuredH="27" zOrder="45" locked="false" isInGroup="-1">
@@ -738,6 +738,14 @@
         <borderStyle>none</borderStyle>
         <color>6989903</color>
         <icon>EmailIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1967" controlTypeID="com.balsamiq.mockups::PointyButton" x="405" y="349" w="-1" h="-1" measuredW="164" measuredH="27" zOrder="114" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <direction>center</direction>
+        <size>11</size>
+        <text>Ask%20for%20further%20contact%20details</text>
       </controlProperties>
     </control>
   </controls>

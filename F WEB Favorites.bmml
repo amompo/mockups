@@ -3,7 +3,7 @@
     <control controlID="441" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="65" y="32" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Danrent%0Ahttp%3A//www.danrent.dk/search_properties/favorites/list%0A%20%0AMeta%20tag%3AAportments%20for%20rent%20in%20...%20%28Is%20it%20possible%20to%20have%20an%20automatic%20meta%20tag%20generator%20that%20autofils%20the%20description%20according%20to%20the%20searched%20sentence%29%20%28I%20think%20google%20recommended%20not%20to%20have%20the%20property%20searcher%20crawled.%20This%20was%20becouse%20it%20could%20be%20less%20beneficial%20that%20expected%2C%20it%20could%20even%20have%20the%20opposed%20impact%20and%20make%20it%20a%20negative%20one.%29%20Careful%20with%20this.</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/property/favorites/list%0A%20%0AMeta%20tag%3AAportments%20for%20rent%20in%20...%20%28Is%20it%20possible%20to%20have%20an%20automatic%20meta%20tag%20generator%20that%20autofils%20the%20description%20according%20to%20the%20searched%20sentence%29%20%28I%20think%20google%20recommended%20not%20to%20have%20the%20property%20searcher%20crawled.%20This%20was%20becouse%20it%20could%20be%20less%20beneficial%20that%20expected%2C%20it%20could%20even%20have%20the%20opposed%20impact%20and%20make%20it%20a%20negative%20one.%29%20Careful%20with%20this.</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -11,7 +11,7 @@
     <control controlID="526" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1184" y="32" w="1024" h="768" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Danrent%0Ahttp%3A//www.danrent.dk/search_properties/favorites/map%0A%20%0AMeta%20tag%3AAportments%20for%20rent%20in%20...%20%28Is%20it%20possible%20to%20have%20an%20automatic%20meta%20tag%20generator%20that%20autofils%20the%20description%20according%20to%20the%20searched%20sentence%29%20%28I%20think%20google%20recommended%20not%20to%20have%20the%20property%20searcher%20crawled.%20This%20was%20becouse%20it%20could%20be%20less%20beneficial%20that%20expected%2C%20it%20could%20even%20have%20the%20opposed%20impact%20and%20make%20it%20a%20negative%20one.%29%20Careful%20with%20this.</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/property/favorites/map%0A%20%0AMeta%20tag%3AAportments%20for%20rent%20in%20...%20%28Is%20it%20possible%20to%20have%20an%20automatic%20meta%20tag%20generator%20that%20autofils%20the%20description%20according%20to%20the%20searched%20sentence%29%20%28I%20think%20google%20recommended%20not%20to%20have%20the%20property%20searcher%20crawled.%20This%20was%20becouse%20it%20could%20be%20less%20beneficial%20that%20expected%2C%20it%20could%20even%20have%20the%20opposed%20impact%20and%20make%20it%20a%20negative%20one.%29%20Careful%20with%20this.</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -100,7 +100,7 @@
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>13421772</color>
-        <icon>StarIcon%7Cxsmall</icon>
+        <icon>HeartIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
     <control controlID="554" controlTypeID="com.balsamiq.mockups::Icon" x="1659" y="529" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
@@ -467,8 +467,8 @@
       <controlProperties>
         <color>16750848</color>
         <direction>center</direction>
-        <href>F%20WEB%20L%20Registration%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22892%2C81%2C1005%2C108%22%20href%3D%22F%2520WEB%2520L%2520Registration.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%22%20id%3D%22810%22/%3E</map>
+        <href>F%20WEB%20L%20Registration%20-%20Direct%20contact%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22892%2C81%2C1005%2C108%22%20href%3D%22F%2520WEB%2520L%2520Registration%2520-%2520Direct%2520contact.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%20-%20Direct%20contact%22%20id%3D%22810%22/%3E</map>
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>
@@ -507,8 +507,8 @@
       <controlProperties>
         <color>16750848</color>
         <direction>center</direction>
-        <href>F%20WEB%20L%20Registration%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222010%2C81%2C2123%2C108%22%20href%3D%22F%2520WEB%2520L%2520Registration.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%22%20id%3D%22828%22/%3E</map>
+        <href>F%20WEB%20L%20Registration%20-%20Direct%20contact%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%222010%2C81%2C2123%2C108%22%20href%3D%22F%2520WEB%2520L%2520Registration%2520-%2520Direct%2520contact.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%20-%20Direct%20contact%22%20id%3D%22828%22/%3E</map>
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>
@@ -1231,6 +1231,12 @@
         <borderStyle>none</borderStyle>
         <color>13576743</color>
         <icon>HeartIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1144" controlTypeID="com.balsamiq.mockups::StickyNote" x="506" y="355" w="145" h="123" measuredW="109" measuredH="123" zOrder="185" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>What%20about%20deleting%20a%20favorite%3F</text>
       </controlProperties>
     </control>
   </controls>

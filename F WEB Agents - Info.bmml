@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1088" measuredH="806" mockupW="1024" mockupH="772">
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1088" measuredH="806" mockupW="1024" mockupH="772">
   <controls>
     <control controlID="1566" controlTypeID="com.balsamiq.mockups::TextArea" x="235" y="159" w="206" h="78" measuredW="200" measuredH="140" zOrder="124" locked="false" isInGroup="-1">
       <controlProperties>
@@ -65,7 +65,7 @@
         <text>Boligportal.dk%20%28c%29%20Frederiskberg%20Alle%2C%2012%2C%201000%20Frederiksberg%2C%20Copenhagen%2C%20DK.</text>
       </controlProperties>
     </control>
-    <control controlID="1575" controlTypeID="com.balsamiq.mockups::ComboBox" x="927" y="740" w="44" h="-1" measuredW="41" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="1575" controlTypeID="com.balsamiq.mockups::ComboBox" x="927" y="740" w="44" h="-1" measuredW="41" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>1</text>
@@ -77,7 +77,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="1577" controlTypeID="com.balsamiq.mockups::ComboBox" x="971" y="740" w="44" h="-1" measuredW="44" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="1577" controlTypeID="com.balsamiq.mockups::ComboBox" x="971" y="740" w="44" h="-1" measuredW="44" measuredH="29" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>_</text>
@@ -126,7 +126,7 @@
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22864%2C751%2C880%2C767%22%20href%3D%22F%2520WEB%2520FAQ.bmml%22%20alt%3D%22F%20WEB%20FAQ%22%20id%3D%221584%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="1585" controlTypeID="com.balsamiq.mockups::ModalScreen" x="952" y="781" w="131" h="25" measuredW="320" measuredH="240" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="1585" controlTypeID="com.balsamiq.mockups::ModalScreen" x="952" y="781" w="131" h="25" measuredW="318" measuredH="240" zOrder="15" locked="false" isInGroup="-1"/>
     <control controlID="1586" controlTypeID="com.balsamiq.mockups::Icon" x="532" y="740" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
@@ -155,7 +155,7 @@
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22424%2C708%2C456%2C740%22%20href%3D%22F%2520WEB%2520Search.bmml%22%20alt%3D%22F%20WEB%20Search%22%20id%3D%221589%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="1590" controlTypeID="com.balsamiq.mockups::ComboBox" x="1013" y="740" w="54" h="-1" measuredW="44" measuredH="28" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="1590" controlTypeID="com.balsamiq.mockups::ComboBox" x="1013" y="740" w="54" h="-1" measuredW="44" measuredH="29" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>_</text>
@@ -180,8 +180,8 @@
       <controlProperties>
         <color>16750848</color>
         <direction>center</direction>
-        <href>F%20WEB%20L%20Registration%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22893%2C79%2C1006%2C106%22%20href%3D%22F%2520WEB%2520L%2520Registration.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%22%20id%3D%221593%22/%3E</map>
+        <href>F%20WEB%20L%20Registration%20-%20Direct%20contact%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22893%2C79%2C1006%2C106%22%20href%3D%22F%2520WEB%2520L%2520Registration%2520-%2520Direct%2520contact.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%20-%20Direct%20contact%22%20id%3D%221593%22/%3E</map>
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>

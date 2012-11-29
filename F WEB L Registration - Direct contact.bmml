@@ -3,7 +3,7 @@
     <control controlID="1971" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="161" y="41" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Danrent%0Ahttp%3A//www.danrent.dk/landlord_registration</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/landlord/registration/why_us</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -48,7 +48,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="1978" controlTypeID="com.balsamiq.mockups::IconLabel" x="741" y="666" w="42" h="-1" measuredW="50" measuredH="18" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="1978" controlTypeID="com.balsamiq.mockups::IconLabel" x="741" y="666" w="42" h="-1" measuredW="49" measuredH="18" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
         <icon>EllipsisIcon%7Cxsmall</icon>
@@ -228,8 +228,8 @@
       <controlProperties>
         <color>16750848</color>
         <direction>center</direction>
-        <href>F%20WEB%20L%20Registration%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22891%2C80%2C1004%2C107%22%20href%3D%22F%2520WEB%2520L%2520Registration.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%22%20id%3D%222016%22/%3E</map>
+        <href>F%20WEB%20L%20Registration%20-%20Direct%20contact%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22891%2C80%2C1004%2C107%22%20href%3D%22F%2520WEB%2520L%2520Registration%2520-%2520Direct%2520contact.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%20-%20Direct%20contact%22%20id%3D%222016%22/%3E</map>
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>

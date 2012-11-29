@@ -3,7 +3,7 @@
     <control controlID="767" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="64" y="34" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Danrent%0Ahttp%3A//www.danrent.dk/tenant/mail%0A%20%0AMeta%20tag%3AAportments%20for%20rent%20in%20...%20%28Is%20it%20possible%20to%20have%20an%20automatic%20meta%20tag%20generator%20that%20autofils%20the%20description%20according%20to%20the%20searched%20sentence%29%20%28I%20think%20google%20recommended%20not%20to%20have%20the%20property%20searcher%20crawled.%20This%20was%20becouse%20it%20could%20be%20less%20beneficial%20that%20expected%2C%20it%20could%20even%20have%20the%20opposed%20impact%20and%20make%20it%20a%20negative%20one.%29%20Careful%20with%20this.</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/landlord/manage/properties/list</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -86,7 +86,6 @@
       <controlProperties>
         <color>2848996</color>
         <icon>Info2Icon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22864%2C751%2C880%2C767%22%20href%3D%22F%2520WEB%2520FAQ.bmml%22%20alt%3D%22F%20WEB%20FAQ%22%20id%3D%221613%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="1614" controlTypeID="com.balsamiq.mockups::ModalScreen" x="952" y="781" w="131" h="25" measuredW="318" measuredH="240" zOrder="14" locked="false" isInGroup="-1"/>
@@ -153,7 +152,9 @@
     <control controlID="1752" controlTypeID="com.balsamiq.mockups::Icon" x="618" y="741" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13421772</color>
+        <href>L%20WEB%20Mail%20by%20Property%26bm%3BL%20WEB%20Mail%20by%20Property.bmml%26bm%3BL%20WEB%20Mail%20by%20Property.bmml%26bm%3BL%20WEB%20Mail%20by%20Property.bmml</href>
         <icon>EmailIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22554%2C707%2C586%2C739%22%20href%3D%22L%2520WEB%2520Mail%2520by%2520Property.bmml%22%20alt%3D%22L%20WEB%20Mail%20by%20Property%22%20id%3D%221752%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="1753" controlTypeID="com.balsamiq.mockups::Icon" x="646" y="735" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="25" locked="false" isInGroup="-1">
@@ -172,8 +173,8 @@
       <controlProperties>
         <color>16750848</color>
         <direction>center</direction>
-        <href>L%20WEB%20New%20property%26bm%3BL%20WEB%20New%20property.bmml%26bm%3BL%20WEB%20New%20property.bmml%26bm%3BL%20WEB%20New%20property.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22893%2C79%2C1006%2C106%22%20href%3D%22L%2520WEB%2520New%2520property.bmml%22%20alt%3D%22L%20WEB%20New%20property%22%20id%3D%221789%22/%3E</map>
+        <href>L%20WEB%20Create%20property%20-%20Map%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22893%2C79%2C1006%2C106%22%20href%3D%22L%2520WEB%2520Create%2520property%2520-%2520Map.bmml%22%20alt%3D%22L%20WEB%20Create%20property%20-%20Map%22%20id%3D%221789%22/%3E</map>
         <text>New%20property</text>
       </controlProperties>
     </control>
@@ -216,8 +217,68 @@
     </control>
     <control controlID="1881" controlTypeID="com.balsamiq.mockups::Label" x="93" y="371" w="-1" h="-1" measuredW="129" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>L%20WEB%20New%20property%26bm%3BL%20WEB%20New%20property.bmml%26bm%3BL%20WEB%20New%20property.bmml%26bm%3BL%20WEB%20New%20property.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C337%2C158%2C358%22%20href%3D%22L%2520WEB%2520New%2520property.bmml%22%20alt%3D%22L%20WEB%20New%20property%22%20id%3D%221881%22/%3E</map>
+        <href>L%20WEB%20Create%20property%20-%20Map%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C337%2C158%2C358%22%20href%3D%22L%2520WEB%2520Create%2520property%2520-%2520Map.bmml%22%20alt%3D%22L%20WEB%20Create%20property%20-%20Map%22%20id%3D%221881%22/%3E</map>
+        <text>Create%20new%20property</text>
+      </controlProperties>
+    </control>
+    <control controlID="1882" controlTypeID="com.balsamiq.mockups::Image" x="288" y="197" w="187" h="146" measuredW="77" measuredH="79" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Mobile%2520Design/Front%2520end/Balsamiq%2520Mockups/Current%2520mockups/1319538_qyke%255B1%255D.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1883" controlTypeID="com.balsamiq.mockups::Canvas" x="287" y="342" w="188" h="100" measuredW="100" measuredH="70" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1884" controlTypeID="com.balsamiq.mockups::Canvas" x="286" y="340" w="187" h="29" measuredW="100" measuredH="70" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="1885" controlTypeID="com.balsamiq.mockups::Label" x="297" y="340" w="-1" h="-1" measuredW="62" measuredH="28" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <size>20</size>
+        <text>Empty</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="1886" controlTypeID="com.balsamiq.mockups::Label" x="297" y="371" w="-1" h="-1" measuredW="129" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Create%20new%20property</text>
+      </controlProperties>
+    </control>
+    <control controlID="1887" controlTypeID="com.balsamiq.mockups::Image" x="490" y="197" w="187" h="146" measuredW="77" measuredH="79" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Mobile%2520Design/Front%2520end/Balsamiq%2520Mockups/Current%2520mockups/1319538_qyke%255B1%255D.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1888" controlTypeID="com.balsamiq.mockups::Canvas" x="489" y="342" w="188" h="100" measuredW="100" measuredH="70" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1889" controlTypeID="com.balsamiq.mockups::Canvas" x="488" y="340" w="187" h="29" measuredW="100" measuredH="70" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="1890" controlTypeID="com.balsamiq.mockups::Label" x="499" y="340" w="-1" h="-1" measuredW="62" measuredH="28" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <size>20</size>
+        <text>Empty</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="1891" controlTypeID="com.balsamiq.mockups::Label" x="499" y="371" w="-1" h="-1" measuredW="129" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
         <text>Create%20new%20property</text>
       </controlProperties>
     </control>

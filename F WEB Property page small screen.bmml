@@ -169,8 +169,8 @@
       <controlProperties>
         <color>16750848</color>
         <direction>center</direction>
-        <href>F%20WEB%20L%20Registration%201%26bm%3BF%20WEB%20L%20Registration%201.bmml%26bm%3BF%20WEB%20L%20Registration%201.bmml%26bm%3BF%20WEB%20L%20Registration%201.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22500%2C81%2C613%2C108%22%20href%3D%22F%2520WEB%2520L%2520Registration%25201.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%201%22%20id%3D%221808%22/%3E</map>
+        <href>F%20WEB%20L%20Registration%20-%20Direct%20contact%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22500%2C81%2C613%2C108%22%20href%3D%22F%2520WEB%2520L%2520Registration%2520-%2520Direct%2520contact.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%20-%20Direct%20contact%22%20id%3D%221808%22/%3E</map>
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>
@@ -448,8 +448,6 @@
         <bold>true</bold>
         <borderColor>15658734</borderColor>
         <color>14540253</color>
-        <href>F%20WEB%20Property%20page%20extented%26bm%3BF%20WEB%20Property%20page%20extented.bmml%26bm%3BF%20WEB%20Property%20page%20extented.bmml%26bm%3BF%20WEB%20Property%20page%20extented.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22473%2C663%2C521%2C687%22%20href%3D%22F%2520WEB%2520Property%2520page%2520extented.bmml%22%20alt%3D%22F%20WEB%20Property%20page%20extented%22%20id%3D%221854%22/%3E</map>
         <size>16</size>
         <text>Costs</text>
       </controlProperties>
@@ -499,9 +497,9 @@
     <control controlID="1862" controlTypeID="com.balsamiq.mockups::Icon" x="858" y="40" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="77" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
-        <href>F%20WEB%20Property%20page%20extented%20small%20screen%26bm%3BF%20WEB%20Property%20page%20extented%20small%20screen.bmml%26bm%3BF%20WEB%20Property%20page%20extented%20small%20screen.bmml%26bm%3BF%20WEB%20Property%20page%20extented%20small%20screen.bmml</href>
-        <icon>FullScreenExitIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22603%2C0%2C635%2C32%22%20href%3D%22F%2520WEB%2520Property%2520page%2520extented%2520small%2520screen.bmml%22%20alt%3D%22F%20WEB%20Property%20page%20extented%20small%20screen%22%20id%3D%221862%22/%3E</map>
+        <href>F%20WEB%20Property%20page%26bm%3BF%20WEB%20Property%20page.bmml%26bm%3BF%20WEB%20Property%20page.bmml%26bm%3BF%20WEB%20Property%20page.bmml</href>
+        <icon>FullScreenIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22603%2C0%2C635%2C32%22%20href%3D%22F%2520WEB%2520Property%2520page.bmml%22%20alt%3D%22F%20WEB%20Property%20page%22%20id%3D%221862%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="1863" controlTypeID="com.balsamiq.mockups::Icon" x="843" y="946" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="78" locked="false" isInGroup="-1">
@@ -638,7 +636,7 @@
         <icon>HomeMobileIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1895" controlTypeID="com.balsamiq.mockups::Label" x="395" y="902" w="-1" h="-1" measuredW="32" measuredH="16" zOrder="96" locked="false" isInGroup="-1">
+    <control controlID="1895" controlTypeID="com.balsamiq.mockups::Label" x="395" y="902" w="-1" h="-1" measuredW="34" measuredH="16" zOrder="96" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <borderColor>15658734</borderColor>
@@ -654,7 +652,7 @@
         <color>16750848</color>
       </controlProperties>
     </control>
-    <control controlID="1897" controlTypeID="com.balsamiq.mockups::Label" x="296" y="901" w="58" h="22" measuredW="54" measuredH="20" zOrder="98" locked="false" isInGroup="-1">
+    <control controlID="1897" controlTypeID="com.balsamiq.mockups::Label" x="296" y="901" w="58" h="22" measuredW="55" measuredH="20" zOrder="98" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <borderColor>15658734</borderColor>

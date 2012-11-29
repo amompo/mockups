@@ -17,8 +17,8 @@
     <control controlID="1928" controlTypeID="com.balsamiq.mockups::Button" x="875" y="706" w="93" h="41" measuredW="75" measuredH="30" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
-        <href>L%20WEB%20New%20property%26bm%3BL%20WEB%20New%20property.bmml%26bm%3BL%20WEB%20New%20property.bmml%26bm%3BL%20WEB%20New%20property.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22808%2C673%2C901%2C714%22%20href%3D%22L%2520WEB%2520New%2520property.bmml%22%20alt%3D%22L%20WEB%20New%20property%22%20id%3D%221928%22/%3E</map>
+        <href>L%20WEB%20Create%20property%20-%20Map%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22808%2C673%2C901%2C714%22%20href%3D%22L%2520WEB%2520Create%2520property%2520-%2520Map.bmml%22%20alt%3D%22L%20WEB%20Create%20property%20-%20Map%22%20id%3D%221928%22/%3E</map>
         <size>20</size>
         <text>Log%20in</text>
       </controlProperties>

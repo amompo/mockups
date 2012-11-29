@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1091" measuredH="805" mockupW="1024" mockupH="772">
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1091" measuredH="805" mockupW="1024" mockupH="772">
   <controls>
     <control controlID="449" controlTypeID="com.balsamiq.mockups::IconLabel" x="196" y="641" w="63" h="-1" measuredW="57" measuredH="44" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
@@ -76,7 +76,7 @@
         <icon>HomeMobileIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="473" controlTypeID="com.balsamiq.mockups::Tooltip" x="461" y="396" w="123" h="174" measuredW="45" measuredH="0" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="473" controlTypeID="com.balsamiq.mockups::Tooltip" x="461" y="396" w="123" h="174" measuredW="39" measuredH="0" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
         <tooltipDirection>SE</tooltipDirection>
@@ -220,7 +220,7 @@
         <text>Boligportal.dk%20%28c%29%20Frederiskberg%20Alle%2C%2012%2C%201000%20Frederiksberg%2C%20Copenhagen%2C%20DK.</text>
       </controlProperties>
     </control>
-    <control controlID="511" controlTypeID="com.balsamiq.mockups::ComboBox" x="931" y="739" w="44" h="-1" measuredW="41" measuredH="28" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="511" controlTypeID="com.balsamiq.mockups::ComboBox" x="931" y="739" w="44" h="-1" measuredW="41" measuredH="29" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>1</text>
@@ -232,7 +232,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="513" controlTypeID="com.balsamiq.mockups::ComboBox" x="975" y="739" w="44" h="-1" measuredW="44" measuredH="28" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="513" controlTypeID="com.balsamiq.mockups::ComboBox" x="975" y="739" w="44" h="-1" measuredW="44" measuredH="29" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>_</text>
@@ -281,12 +281,12 @@
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22865%2C751%2C881%2C767%22%20href%3D%22F%2520WEB%2520FAQ.bmml%22%20alt%3D%22F%20WEB%20FAQ%22%20id%3D%22520%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="521" controlTypeID="com.balsamiq.mockups::ModalScreen" x="956" y="780" w="131" h="25" measuredW="320" measuredH="240" zOrder="40" locked="false" isInGroup="-1"/>
+    <control controlID="521" controlTypeID="com.balsamiq.mockups::ModalScreen" x="956" y="780" w="131" h="25" measuredW="318" measuredH="240" zOrder="40" locked="false" isInGroup="-1"/>
     <control controlID="522" controlTypeID="com.balsamiq.mockups::Icon" x="536" y="739" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="41" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <href>F%20WEB%20Favorites%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml</href>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22469%2C706%2C501%2C738%22%20href%3D%22F%2520WEB%2520Favorites.bmml%22%20alt%3D%22F%20WEB%20Favorites%22%20id%3D%22522%22/%3E</map>
       </controlProperties>
     </control>
@@ -310,7 +310,7 @@
         <icon>Number8Icon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="526" controlTypeID="com.balsamiq.mockups::ComboBox" x="1017" y="739" w="54" h="-1" measuredW="44" measuredH="28" zOrder="45" locked="false" isInGroup="-1">
+    <control controlID="526" controlTypeID="com.balsamiq.mockups::ComboBox" x="1017" y="739" w="54" h="-1" measuredW="44" measuredH="29" zOrder="45" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
         <text>_</text>
@@ -341,8 +341,8 @@
       <controlProperties>
         <color>16750848</color>
         <direction>center</direction>
-        <href>F%20WEB%20L%20Registration%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22893%2C79%2C1006%2C106%22%20href%3D%22F%2520WEB%2520L%2520Registration.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%22%20id%3D%22530%22/%3E</map>
+        <href>F%20WEB%20L%20Registration%20-%20Direct%20contact%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22893%2C79%2C1006%2C106%22%20href%3D%22F%2520WEB%2520L%2520Registration%2520-%2520Direct%2520contact.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%20-%20Direct%20contact%22%20id%3D%22530%22/%3E</map>
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>

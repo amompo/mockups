@@ -1,9 +1,9 @@
-<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1185" measuredH="1017" mockupW="1025" mockupH="979">
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1325" measuredH="1017" mockupW="1165" mockupH="979">
   <controls>
     <control controlID="1951" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="161" y="38" w="1024" h="979" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Danrent%0Ahttp%3A//www.danrent.dk/landlord_registration</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/landlord/registration/why_us</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -48,7 +48,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="1958" controlTypeID="com.balsamiq.mockups::IconLabel" x="741" y="663" w="42" h="-1" measuredW="50" measuredH="18" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="1958" controlTypeID="com.balsamiq.mockups::IconLabel" x="741" y="663" w="42" h="-1" measuredW="49" measuredH="18" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
         <icon>EllipsisIcon%7Cxsmall</icon>
@@ -226,8 +226,6 @@
       <controlProperties>
         <color>16750848</color>
         <direction>center</direction>
-        <href>F%20WEB%20L%20Registration%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml%26bm%3BF%20WEB%20L%20Registration.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22891%2C80%2C1004%2C107%22%20href%3D%22F%2520WEB%2520L%2520Registration.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%22%20id%3D%221985%22/%3E</map>
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>
@@ -346,8 +344,8 @@
     <control controlID="2003" controlTypeID="com.balsamiq.mockups::Button" x="732" y="853" w="105" h="20" measuredW="55" measuredH="24" zOrder="52" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16750848</color>
-        <href>L%20WEB%20New%20property%26bm%3BL%20WEB%20New%20property.bmml%26bm%3BL%20WEB%20New%20property.bmml%26bm%3BL%20WEB%20New%20property.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22572%2C815%2C677%2C835%22%20href%3D%22L%2520WEB%2520New%2520property.bmml%22%20alt%3D%22L%20WEB%20New%20property%22%20id%3D%222003%22/%3E</map>
+        <href>L%20WEB%20Create%20property%20-%20Map%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml%26bm%3BL%20WEB%20Create%20property%20-%20Map.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22572%2C815%2C677%2C835%22%20href%3D%22L%2520WEB%2520Create%2520property%2520-%2520Map.bmml%22%20alt%3D%22L%20WEB%20Create%20property%20-%20Map%22%20id%3D%222003%22/%3E</map>
         <size>11</size>
         <text>Submit</text>
       </controlProperties>
@@ -384,6 +382,11 @@
         <href>F%20WEB%20L%20Registration%20-%20Direct%20contact%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml%26bm%3BF%20WEB%20L%20Registration%20-%20Direct%20contact.bmml</href>
         <icon>XIcon%7Csmall</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22773%2C669%2C797%2C693%22%20href%3D%22F%2520WEB%2520L%2520Registration%2520-%2520Direct%2520contact.bmml%22%20alt%3D%22F%20WEB%20L%20Registration%20-%20Direct%20contact%22%20id%3D%222008%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="2009" controlTypeID="com.balsamiq.mockups::StickyNote" x="1091" y="736" w="234" h="123" measuredW="109" measuredH="123" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Make%20link%20to%20Privacy%20agreements.%20Popup</text>
       </controlProperties>
     </control>
   </controls>
