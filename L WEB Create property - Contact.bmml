@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1148" measuredH="1292" mockupW="1025" mockupH="1251">
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1148" measuredH="1294" mockupW="1025" mockupH="1253">
   <controls>
     <control controlID="2598" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="123" y="41" w="1024" h="1246" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -410,7 +410,7 @@
         <icon>Number3Icon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="2702" controlTypeID="com.balsamiq.mockups::ModalScreen" x="123" y="41" w="1023" h="1174" measuredW="318" measuredH="240" zOrder="65" locked="false" isInGroup="-1"/>
+    <control controlID="2702" controlTypeID="com.balsamiq.mockups::ModalScreen" x="123" y="41" w="1023" h="1253" measuredW="318" measuredH="240" zOrder="65" locked="false" isInGroup="-1"/>
     <control controlID="2703" controlTypeID="com.balsamiq.mockups::Canvas" x="366" y="290" w="539" h="736" measuredW="100" measuredH="70" zOrder="66" locked="false" isInGroup="-1"/>
     <control controlID="2704" controlTypeID="com.balsamiq.mockups::Canvas" x="366" y="290" w="539" h="43" measuredW="100" measuredH="70" zOrder="67" locked="false" isInGroup="-1">
       <controlProperties>

@@ -108,7 +108,7 @@
     <control controlID="361" controlTypeID="com.balsamiq.mockups::Icon" x="563" y="732" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
       </controlProperties>
     </control>
     <control controlID="362" controlTypeID="com.balsamiq.mockups::Icon" x="602" y="732" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
@@ -363,9 +363,12 @@
         <icon>Number2Icon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="430" controlTypeID="com.balsamiq.mockups::StickyNote" x="183" y="463" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="57" locked="false" isInGroup="-1">
+    <control controlID="431" controlTypeID="com.balsamiq.mockups::Canvas" x="137" y="179" w="188" h="245" measuredW="100" measuredH="70" zOrder="57" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Make%20a%20thread%20for%20Danrent</text>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <href>L%20WEB%20Mail%20by%20Danrent%26bm%3BL%20WEB%20Mail%20by%20Danrent.bmml%26bm%3BL%20WEB%20Mail%20by%20Danrent.bmml%26bm%3BL%20WEB%20Mail%20by%20Danrent.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C149%2C232%2C394%22%20href%3D%22L%2520WEB%2520Mail%2520by%2520Danrent.bmml%22%20alt%3D%22L%20WEB%20Mail%20by%20Danrent%22%20id%3D%22431%22/%3E</map>
       </controlProperties>
     </control>
   </controls>

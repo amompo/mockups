@@ -20,8 +20,8 @@
         <bold>true</bold>
         <borderColor>15658734</borderColor>
         <color>6710886</color>
-        <href>F%20WEB%20Property%26bm%3BF%20WEB%20Property.bmml%26bm%3BF%20WEB%20Property.bmml%26bm%3BF%20WEB%20Property.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22243%2C144%2C332%2C162%22%20href%3D%22F%2520WEB%2520Property.bmml%22%20alt%3D%22F%20WEB%20Property%22%20id%3D%22585%22/%3E</map>
+        <href>F%20WEB%20Property%20page%26bm%3BF%20WEB%20Property%20page.bmml%26bm%3BF%20WEB%20Property%20page.bmml%26bm%3BF%20WEB%20Property%20page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22243%2C144%2C332%2C162%22%20href%3D%22F%2520WEB%2520Property%2520page.bmml%22%20alt%3D%22F%20WEB%20Property%20page%22%20id%3D%22585%22/%3E</map>
         <size>11</size>
         <text>Back%20to%20property</text>
       </controlProperties>
@@ -1198,7 +1198,7 @@
       <controlProperties>
         <color>14540253</color>
         <href>F%20WEB%20Favorites%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml</href>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22470%2C1429%2C502%2C1461%22%20href%3D%22F%2520WEB%2520Favorites.bmml%22%20alt%3D%22F%20WEB%20Favorites%22%20id%3D%221157%22/%3E</map>
       </controlProperties>
     </control>
@@ -1336,7 +1336,7 @@
       <controlProperties>
         <color>14540253</color>
         <href>F%20WEB%20Favorites%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml</href>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22473%2C2270%2C505%2C2302%22%20href%3D%22F%2520WEB%2520Favorites.bmml%22%20alt%3D%22F%20WEB%20Favorites%22%20id%3D%221179%22/%3E</map>
       </controlProperties>
     </control>

@@ -1233,10 +1233,60 @@
         <icon>HeartIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1144" controlTypeID="com.balsamiq.mockups::StickyNote" x="506" y="355" w="145" h="123" measuredW="109" measuredH="123" zOrder="185" locked="false" isInGroup="-1">
+    <control controlID="1145" controlTypeID="com.balsamiq.mockups::Icon" x="244" y="197" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="185" locked="false" isInGroup="-1">
       <controlProperties>
+        <borderStyle>none</borderStyle>
         <color>13576743</color>
-        <text>What%20about%20deleting%20a%20favorite%3F</text>
+        <icon>XIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1146" controlTypeID="com.balsamiq.mockups::Icon" x="448" y="197" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="186" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>XIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1147" controlTypeID="com.balsamiq.mockups::Icon" x="652" y="195" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="187" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>XIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1148" controlTypeID="com.balsamiq.mockups::Icon" x="854" y="195" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="188" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>XIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1149" controlTypeID="com.balsamiq.mockups::Icon" x="1055" y="197" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="189" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>XIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1150" controlTypeID="com.balsamiq.mockups::Icon" x="246" y="455" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="190" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>XIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1151" controlTypeID="com.balsamiq.mockups::Icon" x="448" y="455" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="191" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>XIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="1152" controlTypeID="com.balsamiq.mockups::Icon" x="652" y="453" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="192" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13576743</color>
+        <icon>XIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
   </controls>

@@ -148,7 +148,7 @@
     <control controlID="2207" controlTypeID="com.balsamiq.mockups::Icon" x="534" y="1285" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
       </controlProperties>
     </control>
     <control controlID="2208" controlTypeID="com.balsamiq.mockups::Icon" x="573" y="1285" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
@@ -172,7 +172,9 @@
     <control controlID="2211" controlTypeID="com.balsamiq.mockups::Icon" x="490" y="1287" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
+        <href>T%20WEB%20Search%26bm%3BT%20WEB%20Search.bmml%26bm%3BT%20WEB%20Search.bmml%26bm%3BT%20WEB%20Search.bmml</href>
         <icon>SearchIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22423%2C1254%2C455%2C1286%22%20href%3D%22T%2520WEB%2520Search.bmml%22%20alt%3D%22T%20WEB%20Search%22%20id%3D%222211%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="2212" controlTypeID="com.balsamiq.mockups::ComboBox" x="1015" y="1285" w="54" h="-1" measuredW="44" measuredH="29" zOrder="28" locked="false" isInGroup="-1">
@@ -386,9 +388,9 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="2246" controlTypeID="com.balsamiq.mockups::Image" x="538" y="520" w="30" h="31" measuredW="800" measuredH="1095" zOrder="62" locked="false" isInGroup="-1">
+    <control controlID="2246" controlTypeID="com.balsamiq.mockups::Image" x="538" y="520" w="30" h="31" measuredW="300" measuredH="294" zOrder="62" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>./Scarlett-Johansson-Beautiful-Face-800x1095-Pixels.jpg</src>
+        <src>./a92scarlett-johansson.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -441,9 +443,9 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="2255" controlTypeID="com.balsamiq.mockups::Image" x="538" y="632" w="30" h="31" measuredW="800" measuredH="1095" zOrder="71" locked="false" isInGroup="-1">
+    <control controlID="2255" controlTypeID="com.balsamiq.mockups::Image" x="538" y="632" w="30" h="31" measuredW="300" measuredH="294" zOrder="71" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>./Scarlett-Johansson-Beautiful-Face-800x1095-Pixels.jpg</src>
+        <src>./a92scarlett-johansson.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -527,9 +529,9 @@
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="2271" controlTypeID="com.balsamiq.mockups::Image" x="817" y="751" w="34" h="33" measuredW="800" measuredH="1095" zOrder="87" locked="false" isInGroup="-1">
+    <control controlID="2271" controlTypeID="com.balsamiq.mockups::Image" x="817" y="751" w="34" h="33" measuredW="300" measuredH="294" zOrder="87" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>./Scarlett-Johansson-Beautiful-Face-800x1095-Pixels.jpg</src>
+        <src>./a92scarlett-johansson.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -743,8 +745,17 @@
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
         <borderStyle>none</borderStyle>
-        <href>F%20WEB%20Property%20page%26bm%3BF%20WEB%20Property%20page.bmml%26bm%3BF%20WEB%20Property%20page.bmml%26bm%3BF%20WEB%20Property%20page.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22132%2C713%2C322%2C958%22%20href%3D%22F%2520WEB%2520Property%2520page.bmml%22%20alt%3D%22F%20WEB%20Property%20page%22%20id%3D%222314%22/%3E</map>
+        <href>T%20WEB%20Property%20page%26bm%3BT%20WEB%20Property%20page.bmml%26bm%3BT%20WEB%20Property%20page.bmml%26bm%3BT%20WEB%20Property%20page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22132%2C713%2C322%2C958%22%20href%3D%22T%2520WEB%2520Property%2520page.bmml%22%20alt%3D%22T%20WEB%20Property%20page%22%20id%3D%222314%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="2316" controlTypeID="com.balsamiq.mockups::IconLabel" x="201" y="161" w="-1" h="-1" measuredW="53" measuredH="21" zOrder="121" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>T%20WEB%20Property%20page%26bm%3BT%20WEB%20Property%20page.bmml%26bm%3BT%20WEB%20Property%20page.bmml%26bm%3BT%20WEB%20Property%20page.bmml</href>
+        <icon>LeftArrowIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22134%2C128%2C187%2C149%22%20href%3D%22T%2520WEB%2520Property%2520page.bmml%22%20alt%3D%22T%20WEB%20Property%20page%22%20id%3D%222316%22/%3E</map>
+        <text>Back</text>
       </controlProperties>
     </control>
   </controls>

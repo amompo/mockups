@@ -148,7 +148,7 @@
     <control controlID="2207" controlTypeID="com.balsamiq.mockups::Icon" x="534" y="1285" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
       </controlProperties>
     </control>
     <control controlID="2208" controlTypeID="com.balsamiq.mockups::Icon" x="573" y="1285" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
@@ -565,6 +565,15 @@
         <color>14540253</color>
         <size>8</size>
         <text>Comment</text>
+      </controlProperties>
+    </control>
+    <control controlID="2282" controlTypeID="com.balsamiq.mockups::IconLabel" x="201" y="161" w="-1" h="-1" measuredW="53" measuredH="21" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>L%20WEB%20Mail%26bm%3BL%20WEB%20Mail.bmml%26bm%3BL%20WEB%20Mail.bmml%26bm%3BL%20WEB%20Mail.bmml</href>
+        <icon>LeftArrowIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22134%2C128%2C187%2C149%22%20href%3D%22L%2520WEB%2520Mail.bmml%22%20alt%3D%22L%20WEB%20Mail%22%20id%3D%222282%22/%3E</map>
+        <text>Back</text>
       </controlProperties>
     </control>
   </controls>

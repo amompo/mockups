@@ -3,7 +3,7 @@
     <control controlID="436" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="65" y="29" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <text>Friendlyrent%0Ahttp%3A//www.friendlyrent.dk</text>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/information</text>
         <value>0</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -201,7 +201,7 @@
       <controlProperties>
         <color>14540253</color>
         <href>F%20WEB%20Favorites%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml%26bm%3BF%20WEB%20Favorites.bmml</href>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22469%2C703%2C501%2C735%22%20href%3D%22F%2520WEB%2520Favorites.bmml%22%20alt%3D%22F%20WEB%20Favorites%22%20id%3D%22487%22/%3E</map>
       </controlProperties>
     </control>

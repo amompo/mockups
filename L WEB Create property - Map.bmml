@@ -340,7 +340,7 @@
     <control controlID="2722" controlTypeID="com.balsamiq.mockups::Icon" x="630" y="1224" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="54" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <icon>StarIcon%7Cmedium</icon>
+        <icon>HeartIcon%7Cmedium</icon>
       </controlProperties>
     </control>
     <control controlID="2723" controlTypeID="com.balsamiq.mockups::Icon" x="669" y="1224" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="55" locked="false" isInGroup="-1">
@@ -406,9 +406,23 @@
         <icon>Number6Icon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="2732" controlTypeID="com.balsamiq.mockups::StickyNote" x="612" y="204" w="136" h="123" measuredW="109" measuredH="123" zOrder="64" locked="false" isInGroup="-1">
+    <control controlID="2733" controlTypeID="com.balsamiq.mockups::Icon" x="1113" y="638" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="64" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Make%20some%20kind%20of%20notification%20of%20clicking%20here%21%21%21</text>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="2734" controlTypeID="com.balsamiq.mockups::Icon" x="213" y="638" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+        <rotation>180</rotation>
+      </controlProperties>
+    </control>
+    <control controlID="2735" controlTypeID="com.balsamiq.mockups::Icon" x="652" y="123" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>15658734</borderColor>
+        <color>13576743</color>
+        <icon>LeftArrowIcon%7Cmedium</icon>
+        <rotation>90</rotation>
       </controlProperties>
     </control>
   </controls>

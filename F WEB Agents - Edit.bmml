@@ -844,10 +844,10 @@
         <icon>BookIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1701" controlTypeID="com.balsamiq.mockups::StickyNote" x="491" y="151" w="209" h="123" measuredW="109" measuredH="123" zOrder="133" locked="false" isInGroup="-1">
+    <control controlID="1702" controlTypeID="com.balsamiq.mockups::Icon" x="472" y="134" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="133" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>13576743</color>
-        <text>What%20about%20the%20more%20search%20details%20popup%3F%20If%20we%20have%20it%20in%20the%20search%20page%20we%20must%20have%20it%20also%20in%20this%20page</text>
+        <color>16750848</color>
+        <icon>CircledPlusIcon%7Csmall</icon>
       </controlProperties>
     </control>
   </controls>

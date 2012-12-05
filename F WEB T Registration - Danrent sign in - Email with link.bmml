@@ -1,0 +1,42 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1185" measuredH="809" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="2012" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="161" y="41" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <text>Danrent%0Ahttp%3A//www.danrent.dk/landlord/registration/why_us</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="2059" controlTypeID="com.balsamiq.mockups::Canvas" x="301" y="198" w="754" h="316" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2060" controlTypeID="com.balsamiq.mockups::Paragraph" x="331" y="296" w="709" h="203" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Title%3A%20Welcome%20to%20Danrent.dk%0A%20%0ADear%20%u201Cusername%u201D%20welcome%20to%20www.danrent.dk%21%0A%20%0AWe%20are%20very%20glad%20that%20you%20have%20decided%20to%20join%20us%20to%20find%20that%20very%20perfect%20place%20which%20you%20will%20soon%20be%20calling%20home.%0A%20%20%0A%20%0A%20%0ABy%20clicking%20the%20above%20link%2C%20you%20will%20be%20redirected%20to%20www.danrent.dk.%0A%20%20%0AWe%20hope%20you%20enjoy%20our%20site%2C%0AThe%20Danrent%20team.</text>
+      </controlProperties>
+    </control>
+    <control controlID="2062" controlTypeID="com.balsamiq.mockups::Paragraph" x="318" y="213" w="62" h="80" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>From%3A%0ASubject%3A%0ADate%3A%0ATo%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="2063" controlTypeID="com.balsamiq.mockups::Paragraph" x="384" y="213" w="288" h="80" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Danrent%20%3Cinfo@danrent.dk%3E%0ADanrent%20register-%20Email%20confirmation%20-%20Tenant%0ADecember%203%2C%202012%2011%3A51%3A21%20AM%20GMT+01%3A00%0A%22Username%22%20%3C%22username%22@domain.com%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="2064" controlTypeID="com.balsamiq.mockups::HRule" x="333" y="282" w="681" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="2065" controlTypeID="com.balsamiq.mockups::HRule" x="333" y="314" w="681" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="2067" controlTypeID="com.balsamiq.mockups::Label" x="332" y="389" w="-1" h="-1" measuredW="181" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16750848</color>
+        <href>T%20WEB%20Package%26bm%3BT%20WEB%20Package.bmml%26bm%3BT%20WEB%20Package.bmml%26bm%3BT%20WEB%20Package.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22171%2C348%2C352%2C372%22%20href%3D%22T%2520WEB%2520Package.bmml%22%20alt%3D%22T%20WEB%20Package%22%20id%3D%222067%22/%3E</map>
+        <size>16</size>
+        <text>Confirm%20your%20email%20here</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
