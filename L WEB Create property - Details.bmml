@@ -1909,5 +1909,11 @@
         <underline>false</underline>
       </controlProperties>
     </control>
+    <control controlID="2705" controlTypeID="com.balsamiq.mockups::Icon" x="942" y="227" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="291" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <icon>XIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

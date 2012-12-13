@@ -2,37 +2,37 @@
   <controls>
     <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="1155" y="481" w="187" h="146" measuredW="412" measuredH="309" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="1359" y="481" w="187" h="146" measuredW="412" measuredH="309" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="1560" y="481" w="187" h="146" measuredW="412" measuredH="309" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="19" controlTypeID="com.balsamiq.mockups::Image" x="1162" y="483" w="39" h="40" measuredW="128" measuredH="128" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1352399466_email.png</src>
+        <src>./1352399466_email.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="20" controlTypeID="com.balsamiq.mockups::Image" x="1365" y="483" w="39" h="40" measuredW="128" measuredH="128" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1352399535_email_reply.png</src>
+        <src>./1352399535_email_reply.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="21" controlTypeID="com.balsamiq.mockups::Image" x="1563" y="478" w="39" h="40" measuredW="128" measuredH="128" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1352399477_email_open.png</src>
+        <src>./1352399477_email_open.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -221,7 +221,7 @@
     </control>
     <control controlID="89" controlTypeID="com.balsamiq.mockups::Image" x="220" y="478" w="187" h="146" measuredW="412" measuredH="309" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -295,7 +295,7 @@
     </control>
     <control controlID="100" controlTypeID="com.balsamiq.mockups::Image" x="423" y="478" w="187" h="146" measuredW="412" measuredH="309" zOrder="46" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -369,7 +369,7 @@
     </control>
     <control controlID="111" controlTypeID="com.balsamiq.mockups::Image" x="625" y="478" w="187" h="146" measuredW="412" measuredH="309" zOrder="57" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -443,7 +443,7 @@
     </control>
     <control controlID="122" controlTypeID="com.balsamiq.mockups::Image" x="827" y="478" w="187" h="146" measuredW="412" measuredH="309" zOrder="68" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -518,7 +518,7 @@
     </control>
     <control controlID="134" controlTypeID="com.balsamiq.mockups::Image" x="2076" y="482" w="187" h="146" measuredW="412" measuredH="309" zOrder="79" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -606,7 +606,7 @@
     </control>
     <control controlID="147" controlTypeID="com.balsamiq.mockups::Image" x="1874" y="482" w="187" h="146" measuredW="412" measuredH="309" zOrder="92" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -694,7 +694,7 @@
     </control>
     <control controlID="160" controlTypeID="com.balsamiq.mockups::Image" x="2278" y="482" w="187" h="146" measuredW="412" measuredH="309" zOrder="105" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -830,7 +830,7 @@
     </control>
     <control controlID="227" controlTypeID="com.balsamiq.mockups::Image" x="125" y="104" w="187" h="146" measuredW="412" measuredH="309" zOrder="125" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -1012,7 +1012,7 @@
     </control>
     <control controlID="327" controlTypeID="com.balsamiq.mockups::Image" x="227" y="1094" w="187" h="146" measuredW="201" measuredH="202" zOrder="151" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/swan.png</src>
+        <src>./swan.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -1042,7 +1042,7 @@
     </control>
     <control controlID="341" controlTypeID="com.balsamiq.mockups::Image" x="3317" y="480" w="187" h="146" measuredW="412" measuredH="309" zOrder="155" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -1102,13 +1102,13 @@
     </control>
     <control controlID="355" controlTypeID="com.balsamiq.mockups::Image" x="3608" y="667" w="150" h="12" measuredW="455" measuredH="38" zOrder="164" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Progress%2520date%2520bar%25201.png</src>
+        <src>./Progress%2520date%2520bar%25201.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="356" controlTypeID="com.balsamiq.mockups::Image" x="3608" y="682" w="150" h="12" measuredW="453" measuredH="38" zOrder="165" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Progress%2520date%2520bar.png</src>
+        <src>./Progress%2520date%2520bar.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -1134,7 +1134,7 @@
     </control>
     <control controlID="362" controlTypeID="com.balsamiq.mockups::Image" x="3607" y="520" w="150" h="117" measuredW="412" measuredH="309" zOrder="169" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -1168,7 +1168,7 @@
     </control>
     <control controlID="367" controlTypeID="com.balsamiq.mockups::Image" x="228" y="776" w="187" h="146" measuredW="412" measuredH="309" zOrder="174" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -1240,7 +1240,7 @@
         <icon>EmailIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="378" controlTypeID="com.balsamiq.mockups::Label" x="220" y="744" w="-1" h="-1" measuredW="190" measuredH="26" zOrder="185" locked="false" isInGroup="-1">
+    <control controlID="378" controlTypeID="com.balsamiq.mockups::Label" x="220" y="744" w="-1" h="-1" measuredW="195" measuredH="26" zOrder="185" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
         <size>18</size>
@@ -1254,7 +1254,7 @@
     </control>
     <control controlID="381" controlTypeID="com.balsamiq.mockups::Image" x="447" y="1094" w="187" h="146" measuredW="201" measuredH="202" zOrder="187" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/swan.png</src>
+        <src>./swan.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -1284,7 +1284,7 @@
     </control>
     <control controlID="387" controlTypeID="com.balsamiq.mockups::Image" x="664" y="1094" w="187" h="146" measuredW="201" measuredH="202" zOrder="192" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/swan.png</src>
+        <src>./swan.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -1309,25 +1309,25 @@
     </control>
     <control controlID="392" controlTypeID="com.balsamiq.mockups::Image" x="234" y="1091" w="39" h="40" measuredW="128" measuredH="128" zOrder="196" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1352399466_email.png</src>
+        <src>./1352399466_email.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="393" controlTypeID="com.balsamiq.mockups::Image" x="455" y="1091" w="39" h="40" measuredW="128" measuredH="128" zOrder="197" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1352399535_email_reply.png</src>
+        <src>./1352399535_email_reply.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="394" controlTypeID="com.balsamiq.mockups::Image" x="671" y="1086" w="39" h="40" measuredW="128" measuredH="128" zOrder="198" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1352399477_email_open.png</src>
+        <src>./1352399477_email_open.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="395" controlTypeID="com.balsamiq.mockups::Image" x="228" y="1394" w="187" h="182" measuredW="196" measuredH="196" zOrder="199" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Screen%2520Shot%25202012-07-17%2520at%25202.19.22%2520PM.png</src>
+        <src>./Screen%2520Shot%25202012-07-17%2520at%25202.19.22%2520PM.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -1353,19 +1353,19 @@
     </control>
     <control controlID="399" controlTypeID="com.balsamiq.mockups::Image" x="335" y="1613" w="21" h="22" measuredW="128" measuredH="128" zOrder="203" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Sms.png</src>
+        <src>./Sms.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="400" controlTypeID="com.balsamiq.mockups::Image" x="385" y="1614" w="21" h="22" measuredW="128" measuredH="128" zOrder="204" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/phone.png</src>
+        <src>./phone.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="401" controlTypeID="com.balsamiq.mockups::Image" x="359" y="1614" w="21" h="22" measuredW="128" measuredH="128" zOrder="205" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Email.png</src>
+        <src>./Email.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -1445,11 +1445,11 @@
     </control>
     <control controlID="415" controlTypeID="com.balsamiq.mockups::Image" x="440" y="1973" w="34" h="33" measuredW="800" measuredH="1095" zOrder="219" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Scarlett-Johansson-Beautiful-Face-800x1095-Pixels.jpg</src>
+        <src>./Scarlett-Johansson-Beautiful-Face-800x1095-Pixels.jpg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="416" controlTypeID="com.balsamiq.mockups::Label" x="486" y="1979" w="-1" h="-1" measuredW="106" measuredH="24" zOrder="220" locked="false" isInGroup="-1">
+    <control controlID="416" controlTypeID="com.balsamiq.mockups::Label" x="486" y="1979" w="-1" h="-1" measuredW="107" measuredH="24" zOrder="220" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>Scarlett%20said...</text>
@@ -1486,7 +1486,7 @@
     </control>
     <control controlID="422" controlTypeID="com.balsamiq.mockups::Image" x="640" y="1973" w="34" h="33" measuredW="167" measuredH="167" zOrder="226" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Screen%2520Shot%25202012-07-17%2520at%25203.21.34%2520PM.png</src>
+        <src>./Screen%2520Shot%25202012-07-17%2520at%25203.21.34%2520PM.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -1527,11 +1527,11 @@
     </control>
     <control controlID="429" controlTypeID="com.balsamiq.mockups::Image" x="841" y="1973" w="34" h="33" measuredW="250" measuredH="313" zOrder="233" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Obama.jpg</src>
+        <src>./Obama.jpg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="430" controlTypeID="com.balsamiq.mockups::Label" x="887" y="1979" w="-1" h="-1" measuredW="100" measuredH="24" zOrder="234" locked="false" isInGroup="-1">
+    <control controlID="430" controlTypeID="com.balsamiq.mockups::Label" x="887" y="1979" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="234" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>Obama%20said...</text>
@@ -1562,13 +1562,13 @@
     </control>
     <control controlID="435" controlTypeID="com.balsamiq.mockups::Image" x="245" y="2362" w="139" h="11" measuredW="453" measuredH="38" zOrder="239" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Progress%2520date%2520bar.png</src>
+        <src>./Progress%2520date%2520bar.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="436" controlTypeID="com.balsamiq.mockups::Image" x="245" y="2456" w="139" h="11" measuredW="455" measuredH="38" zOrder="240" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Progress%2520date%2520bar%25201.png</src>
+        <src>./Progress%2520date%2520bar%25201.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -1621,7 +1621,7 @@
     </control>
     <control controlID="444" controlTypeID="com.balsamiq.mockups::Image" x="639" y="2297" w="148" h="116" measuredW="412" measuredH="309" zOrder="248" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1318679_qyem%255B1%255D.jpg</src>
+        <src>./1318679_qyem%255B1%255D.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -1650,13 +1650,13 @@
     </control>
     <control controlID="448" controlTypeID="com.balsamiq.mockups::Image" x="639" y="2442" w="150" h="12" measuredW="455" measuredH="38" zOrder="252" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Progress%2520date%2520bar%25201.png</src>
+        <src>./Progress%2520date%2520bar%25201.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="449" controlTypeID="com.balsamiq.mockups::Image" x="639" y="2457" w="150" h="12" measuredW="453" measuredH="38" zOrder="253" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Progress%2520date%2520bar.png</src>
+        <src>./Progress%2520date%2520bar.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -1985,7 +1985,7 @@
     </control>
     <control controlID="493" controlTypeID="com.balsamiq.mockups::Image" x="1880" y="776" w="187" h="146" measuredW="412" measuredH="309" zOrder="296" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -2078,7 +2078,7 @@
         <icon>XIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="508" controlTypeID="com.balsamiq.mockups::Label" x="1874" y="744" w="-1" h="-1" measuredW="210" measuredH="26" zOrder="310" locked="false" isInGroup="-1">
+    <control controlID="508" controlTypeID="com.balsamiq.mockups::Label" x="1874" y="744" w="-1" h="-1" measuredW="217" measuredH="26" zOrder="310" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
         <size>18</size>
@@ -2091,7 +2091,7 @@
         <tooltipDirection>SE</tooltipDirection>
       </controlProperties>
     </control>
-    <control controlID="510" controlTypeID="com.balsamiq.mockups::Label" x="1155" y="744" w="193" h="26" measuredW="177" measuredH="26" zOrder="312" locked="false" isInGroup="-1">
+    <control controlID="510" controlTypeID="com.balsamiq.mockups::Label" x="1155" y="744" w="193" h="26" measuredW="185" measuredH="26" zOrder="312" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
         <size>18</size>
@@ -2100,13 +2100,13 @@
     </control>
     <control controlID="511" controlTypeID="com.balsamiq.mockups::Image" x="1162" y="776" w="187" h="146" measuredW="412" measuredH="309" zOrder="313" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="512" controlTypeID="com.balsamiq.mockups::Image" x="1169" y="778" w="39" h="40" measuredW="128" measuredH="128" zOrder="314" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1352399466_email.png</src>
+        <src>./1352399466_email.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2291,7 +2291,7 @@
     </control>
     <control controlID="544" controlTypeID="com.balsamiq.mockups::Image" x="513" y="1394" w="187" h="182" measuredW="300" measuredH="294" zOrder="343" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/a92scarlett-johansson.jpg</src>
+        <src>./a92scarlett-johansson.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -2312,14 +2312,14 @@
         <color>13421772</color>
       </controlProperties>
     </control>
-    <control controlID="548" controlTypeID="com.balsamiq.mockups::Label" x="554" y="1613" w="-1" h="-1" measuredW="106" measuredH="22" zOrder="347" locked="false" isInGroup="-1">
+    <control controlID="548" controlTypeID="com.balsamiq.mockups::Label" x="554" y="1613" w="-1" h="-1" measuredW="109" measuredH="22" zOrder="347" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
         <size>14</size>
         <text>New%20York%20-%20USA</text>
       </controlProperties>
     </control>
-    <control controlID="549" controlTypeID="com.balsamiq.mockups::Label" x="1257" y="1979" w="-1" h="-1" measuredW="152" measuredH="24" zOrder="348" locked="false" isInGroup="-1">
+    <control controlID="549" controlTypeID="com.balsamiq.mockups::Label" x="1257" y="1979" w="-1" h="-1" measuredW="155" measuredH="24" zOrder="348" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>16750848</color>
@@ -2333,7 +2333,7 @@
         <color>16777215</color>
       </controlProperties>
     </control>
-    <control controlID="551" controlTypeID="com.balsamiq.mockups::Label" x="538" y="1580" w="-1" h="-1" measuredW="139" measuredH="26" zOrder="350" locked="false" isInGroup="-1">
+    <control controlID="551" controlTypeID="com.balsamiq.mockups::Label" x="538" y="1580" w="-1" h="-1" measuredW="140" measuredH="26" zOrder="350" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
@@ -2349,19 +2349,19 @@
     </control>
     <control controlID="553" controlTypeID="com.balsamiq.mockups::Image" x="1260" y="2028" w="31" h="24" measuredW="128" measuredH="128" zOrder="352" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353080034_United-Kingdom-flag.png</src>
+        <src>./1353080034_United-Kingdom-flag.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="554" controlTypeID="com.balsamiq.mockups::Image" x="1260" y="2064" w="31" h="24" measuredW="128" measuredH="128" zOrder="353" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353080023_Spain-Flag.png</src>
+        <src>./1353080023_Spain-Flag.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="555" controlTypeID="com.balsamiq.mockups::Image" x="1260" y="2100" w="31" h="24" measuredW="128" measuredH="128" zOrder="354" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353080045_France-Flag.png</src>
+        <src>./1353080045_France-Flag.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2398,7 +2398,7 @@
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="562" controlTypeID="com.balsamiq.mockups::Label" x="1659" y="1979" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="361" locked="false" isInGroup="-1">
+    <control controlID="562" controlTypeID="com.balsamiq.mockups::Label" x="1659" y="1979" w="-1" h="-1" measuredW="105" measuredH="24" zOrder="361" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>16750848</color>
@@ -2408,11 +2408,11 @@
     </control>
     <control controlID="563" controlTypeID="com.balsamiq.mockups::Image" x="1464" y="1977" w="25" h="26" measuredW="128" measuredH="128" zOrder="362" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1348153565_social_facebook_box_blue.png</src>
+        <src>./1348153565_social_facebook_box_blue.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="564" controlTypeID="com.balsamiq.mockups::Label" x="1497" y="1978" w="-1" h="-1" measuredW="111" measuredH="24" zOrder="363" locked="false" isInGroup="-1">
+    <control controlID="564" controlTypeID="com.balsamiq.mockups::Label" x="1497" y="1978" w="-1" h="-1" measuredW="106" measuredH="24" zOrder="363" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <color>2848996</color>
@@ -2422,19 +2422,19 @@
     </control>
     <control controlID="565" controlTypeID="com.balsamiq.mockups::Image" x="1465" y="2021" w="30" h="31" measuredW="250" measuredH="287" zOrder="364" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/250px-Mickey_Mouse.svg.png</src>
+        <src>./250px-Mickey_Mouse.svg.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="566" controlTypeID="com.balsamiq.mockups::Image" x="1504" y="2021" w="30" h="31" measuredW="250" measuredH="313" zOrder="365" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Obama.jpg</src>
+        <src>./Obama.jpg</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="567" controlTypeID="com.balsamiq.mockups::Image" x="1542" y="2021" w="30" h="31" measuredW="167" measuredH="167" zOrder="366" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Screen%2520Shot%25202012-07-17%2520at%25203.21.34%2520PM.png</src>
+        <src>./Screen%2520Shot%25202012-07-17%2520at%25203.21.34%2520PM.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2457,11 +2457,11 @@
     </control>
     <control controlID="571" controlTypeID="com.balsamiq.mockups::Image" x="1465" y="2081" w="25" h="26" measuredW="235" measuredH="214" zOrder="370" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/images-1.jpeg</src>
+        <src>./images-1.jpeg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="572" controlTypeID="com.balsamiq.mockups::Label" x="1495" y="2084" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="371" locked="false" isInGroup="-1">
+    <control controlID="572" controlTypeID="com.balsamiq.mockups::Label" x="1495" y="2084" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="371" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <color>15658734</color>
@@ -2471,19 +2471,19 @@
     </control>
     <control controlID="573" controlTypeID="com.balsamiq.mockups::Image" x="1465" y="2133" w="30" h="31" measuredW="250" measuredH="287" zOrder="372" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/250px-Mickey_Mouse.svg.png</src>
+        <src>./250px-Mickey_Mouse.svg.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="574" controlTypeID="com.balsamiq.mockups::Image" x="1504" y="2133" w="30" h="31" measuredW="250" measuredH="313" zOrder="373" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Obama.jpg</src>
+        <src>./Obama.jpg</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="575" controlTypeID="com.balsamiq.mockups::Image" x="1542" y="2133" w="30" h="31" measuredW="167" measuredH="167" zOrder="374" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Screen%2520Shot%25202012-07-17%2520at%25203.21.34%2520PM.png</src>
+        <src>./Screen%2520Shot%25202012-07-17%2520at%25203.21.34%2520PM.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2506,7 +2506,7 @@
         <text>Total%20landlords%20contacted%0ATotal%20landlord%20replies</text>
       </controlProperties>
     </control>
-    <control controlID="579" controlTypeID="com.balsamiq.mockups::Label" x="1858" y="1978" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="378" locked="false" isInGroup="-1">
+    <control controlID="579" controlTypeID="com.balsamiq.mockups::Label" x="1858" y="1978" w="-1" h="-1" measuredW="104" measuredH="24" zOrder="378" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>16750848</color>
@@ -2518,7 +2518,7 @@
     <control controlID="581" controlTypeID="com.balsamiq.mockups::PieChart" x="1678" y="2025" w="123" h="122" measuredW="180" measuredH="180" zOrder="380" locked="false" isInGroup="-1"/>
     <control controlID="582" controlTypeID="com.balsamiq.mockups::Image" x="3026" y="481" w="187" h="146" measuredW="412" measuredH="309" zOrder="381" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -2541,7 +2541,7 @@
     </control>
     <control controlID="588" controlTypeID="com.balsamiq.mockups::Image" x="2806" y="481" w="187" h="146" measuredW="412" measuredH="309" zOrder="385" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1353329_nbzw.jpg</src>
+        <src>./1353329_nbzw.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -2611,13 +2611,13 @@
     </control>
     <control controlID="602" controlTypeID="com.balsamiq.mockups::Image" x="2261" y="1191" w="32" h="34" measuredW="128" measuredH="128" zOrder="397" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Sms.png</src>
+        <src>./Sms.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="603" controlTypeID="com.balsamiq.mockups::Image" x="2301" y="1191" w="32" h="34" measuredW="128" measuredH="128" zOrder="398" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/phone.png</src>
+        <src>./phone.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2638,7 +2638,7 @@
     </control>
     <control controlID="606" controlTypeID="com.balsamiq.mockups::Image" x="2345" y="1191" w="32" h="34" measuredW="128" measuredH="128" zOrder="401" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1348153637_social_skype_box_blue.png</src>
+        <src>./1348153637_social_skype_box_blue.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2672,13 +2672,13 @@
     </control>
     <control controlID="612" controlTypeID="com.balsamiq.mockups::Image" x="2502" y="1194" w="32" h="34" measuredW="128" measuredH="128" zOrder="406" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Sms.png</src>
+        <src>./Sms.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="613" controlTypeID="com.balsamiq.mockups::Image" x="2542" y="1194" w="32" h="34" measuredW="128" measuredH="128" zOrder="407" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/phone.png</src>
+        <src>./phone.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2699,7 +2699,7 @@
     </control>
     <control controlID="616" controlTypeID="com.balsamiq.mockups::Image" x="2586" y="1194" w="32" h="34" measuredW="128" measuredH="128" zOrder="410" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1348153637_social_skype_box_blue.png</src>
+        <src>./1348153637_social_skype_box_blue.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2739,13 +2739,13 @@
     </control>
     <control controlID="622" controlTypeID="com.balsamiq.mockups::Image" x="2722" y="1191" w="32" h="34" measuredW="128" measuredH="128" zOrder="416" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Sms.png</src>
+        <src>./Sms.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="623" controlTypeID="com.balsamiq.mockups::Image" x="2762" y="1191" w="32" h="34" measuredW="128" measuredH="128" zOrder="417" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/phone.png</src>
+        <src>./phone.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2766,7 +2766,7 @@
     </control>
     <control controlID="626" controlTypeID="com.balsamiq.mockups::Image" x="2806" y="1191" w="32" h="34" measuredW="128" measuredH="128" zOrder="420" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1348153637_social_skype_box_blue.png</src>
+        <src>./1348153637_social_skype_box_blue.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2823,7 +2823,7 @@
     </control>
     <control controlID="635" controlTypeID="com.balsamiq.mockups::Image" x="2622" y="1194" w="32" h="34" measuredW="128" measuredH="128" zOrder="428" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1348153565_social_facebook_box_blue.png</src>
+        <src>./1348153565_social_facebook_box_blue.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2884,13 +2884,13 @@
     </control>
     <control controlID="646" controlTypeID="com.balsamiq.mockups::Image" x="1802" y="1192" w="32" h="34" measuredW="128" measuredH="128" zOrder="438" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Sms.png</src>
+        <src>./Sms.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="647" controlTypeID="com.balsamiq.mockups::Image" x="1842" y="1192" w="32" h="34" measuredW="128" measuredH="128" zOrder="439" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/phone.png</src>
+        <src>./phone.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2911,7 +2911,7 @@
     </control>
     <control controlID="650" controlTypeID="com.balsamiq.mockups::Image" x="1886" y="1192" w="32" h="34" measuredW="128" measuredH="128" zOrder="442" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1348153637_social_skype_box_blue.png</src>
+        <src>./1348153637_social_skype_box_blue.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -2960,7 +2960,7 @@
     </control>
     <control controlID="658" controlTypeID="com.balsamiq.mockups::Image" x="763" y="1409" w="148" h="146" measuredW="201" measuredH="202" zOrder="449" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/swan_blured.png</src>
+        <src>./swan_blured.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -3018,7 +3018,7 @@
     </control>
     <control controlID="670" controlTypeID="com.balsamiq.mockups::Image" x="1261" y="2298" w="148" h="116" measuredW="412" measuredH="309" zOrder="458" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1318679_qyem%255B1%255D.jpg</src>
+        <src>./1318679_qyem%255B1%255D.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -3047,13 +3047,13 @@
     </control>
     <control controlID="674" controlTypeID="com.balsamiq.mockups::Image" x="1261" y="2443" w="150" h="12" measuredW="455" measuredH="38" zOrder="462" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Progress%2520date%2520bar%25201.png</src>
+        <src>./Progress%2520date%2520bar%25201.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="675" controlTypeID="com.balsamiq.mockups::Image" x="1261" y="2458" w="150" h="12" measuredW="453" measuredH="38" zOrder="463" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Progress%2520date%2520bar.png</src>
+        <src>./Progress%2520date%2520bar.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -3370,7 +3370,7 @@
     <control controlID="717" controlTypeID="com.balsamiq.mockups::ProgressBar" x="869" y="2457" w="139" h="13" measuredW="100" measuredH="20" zOrder="505" locked="false" isInGroup="-1"/>
     <control controlID="719" controlTypeID="com.balsamiq.mockups::Image" x="1228" y="1393" w="187" h="182" measuredW="160" measuredH="160" zOrder="506" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/default_profile.jpg</src>
+        <src>./default_profile.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -3448,7 +3448,7 @@
     </control>
     <control controlID="735" controlTypeID="com.balsamiq.mockups::Image" x="961" y="1393" w="187" h="182" measuredW="160" measuredH="160" zOrder="520" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/default_profile.jpg</src>
+        <src>./default_profile.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -3476,7 +3476,7 @@
         <text>Let%20us%20know%20your%20location.</text>
       </controlProperties>
     </control>
-    <control controlID="740" controlTypeID="com.balsamiq.mockups::Label" x="2078" y="1979" w="-1" h="-1" measuredW="152" measuredH="24" zOrder="525" locked="false" isInGroup="-1">
+    <control controlID="740" controlTypeID="com.balsamiq.mockups::Label" x="2078" y="1979" w="-1" h="-1" measuredW="155" measuredH="24" zOrder="525" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>16750848</color>
@@ -3531,7 +3531,7 @@
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="749" controlTypeID="com.balsamiq.mockups::Label" x="2480" y="1979" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="534" locked="false" isInGroup="-1">
+    <control controlID="749" controlTypeID="com.balsamiq.mockups::Label" x="2480" y="1979" w="-1" h="-1" measuredW="105" measuredH="24" zOrder="534" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>16750848</color>
@@ -3541,11 +3541,11 @@
     </control>
     <control controlID="750" controlTypeID="com.balsamiq.mockups::Image" x="2285" y="1977" w="25" h="26" measuredW="128" measuredH="128" zOrder="535" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/1348153565_social_facebook_box_blue.png</src>
+        <src>./1348153565_social_facebook_box_blue.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="751" controlTypeID="com.balsamiq.mockups::Label" x="2316" y="1980" w="-1" h="-1" measuredW="111" measuredH="24" zOrder="536" locked="false" isInGroup="-1">
+    <control controlID="751" controlTypeID="com.balsamiq.mockups::Label" x="2316" y="1980" w="-1" h="-1" measuredW="106" measuredH="24" zOrder="536" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <color>2848996</color>
@@ -3572,11 +3572,11 @@
     </control>
     <control controlID="755" controlTypeID="com.balsamiq.mockups::Image" x="2286" y="2081" w="25" h="26" measuredW="235" measuredH="214" zOrder="540" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/images-1.jpeg</src>
+        <src>./images-1.jpeg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="756" controlTypeID="com.balsamiq.mockups::Label" x="2316" y="2084" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="541" locked="false" isInGroup="-1">
+    <control controlID="756" controlTypeID="com.balsamiq.mockups::Label" x="2316" y="2084" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="541" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <color>15658734</color>
@@ -3597,7 +3597,7 @@
         <text>Total%20contacts%20received%3A%200%0ATotal%20contact%20replies%3A%200</text>
       </controlProperties>
     </control>
-    <control controlID="759" controlTypeID="com.balsamiq.mockups::Label" x="2679" y="1978" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="544" locked="false" isInGroup="-1">
+    <control controlID="759" controlTypeID="com.balsamiq.mockups::Label" x="2679" y="1978" w="-1" h="-1" measuredW="104" measuredH="24" zOrder="544" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>16750848</color>
@@ -3648,19 +3648,19 @@
     </control>
     <control controlID="769" controlTypeID="com.balsamiq.mockups::Image" x="893" y="1092" w="187" h="146" measuredW="128" measuredH="128" zOrder="554" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/free-trial.png</src>
+        <src>./free-trial.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="770" controlTypeID="com.balsamiq.mockups::Image" x="1097" y="1092" w="187" h="146" measuredW="233" measuredH="219" zOrder="555" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/30days.png</src>
+        <src>./30days.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="771" controlTypeID="com.balsamiq.mockups::Image" x="1298" y="1092" w="187" h="146" measuredW="150" measuredH="150" zOrder="556" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/60days-sm.jpg</src>
+        <src>./60days-sm.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -3786,7 +3786,7 @@
     </control>
     <control controlID="790" controlTypeID="com.balsamiq.mockups::Image" x="1498" y="1092" w="187" h="146" measuredW="423" measuredH="284" zOrder="575" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Priority.jpg</src>
+        <src>./Priority.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -3843,11 +3843,11 @@
     </control>
     <control controlID="801" controlTypeID="com.balsamiq.mockups::Image" x="229" y="1973" w="34" h="33" measuredW="250" measuredH="313" zOrder="584" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/Obama.jpg</src>
+        <src>./Obama.jpg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="802" controlTypeID="com.balsamiq.mockups::Label" x="275" y="1979" w="-1" h="-1" measuredW="116" measuredH="24" zOrder="585" locked="false" isInGroup="-1">
+    <control controlID="802" controlTypeID="com.balsamiq.mockups::Label" x="275" y="1979" w="-1" h="-1" measuredW="121" measuredH="24" zOrder="585" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>Your%20comment...</text>
@@ -3908,7 +3908,7 @@
     </control>
     <control controlID="811" controlTypeID="com.balsamiq.mockups::Image" x="1567" y="1393" w="187" h="182" measuredW="460" measuredH="460" zOrder="594" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/dodgy-ios-preferences-icon.jpg</src>
+        <src>./dodgy-ios-preferences-icon.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -3934,7 +3934,7 @@
     </control>
     <control controlID="815" controlTypeID="com.balsamiq.mockups::Image" x="1768" y="1393" w="187" h="182" measuredW="128" measuredH="128" zOrder="598" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/free-trial.png</src>
+        <src>./free-trial.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -3960,13 +3960,13 @@
     </control>
     <control controlID="819" controlTypeID="com.balsamiq.mockups::Image" x="2000" y="1433" w="125" h="122" measuredW="256" measuredH="256" zOrder="602" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/help.png</src>
+        <src>./help.png</src>
         <text/>
       </controlProperties>
     </control>
     <control controlID="820" controlTypeID="com.balsamiq.mockups::Image" x="2169" y="1434" w="187" h="120" measuredW="508" measuredH="324" zOrder="603" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Desktop%2520Balsamiq%2520mockups/social-media.jpg</src>
+        <src>./social-media.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -4053,7 +4053,7 @@
         <color>13421772</color>
       </controlProperties>
     </control>
-    <control controlID="838" controlTypeID="com.balsamiq.mockups::Label" x="2263" y="1242" w="-1" h="-1" measuredW="138" measuredH="24" zOrder="617" locked="false" isInGroup="-1">
+    <control controlID="838" controlTypeID="com.balsamiq.mockups::Label" x="2263" y="1242" w="-1" h="-1" measuredW="146" measuredH="24" zOrder="617" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>

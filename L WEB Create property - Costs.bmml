@@ -1942,5 +1942,11 @@
         <text/>
       </controlProperties>
     </control>
+    <control controlID="2752" controlTypeID="com.balsamiq.mockups::Icon" x="948" y="241" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="294" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <icon>XIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

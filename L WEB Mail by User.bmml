@@ -1348,5 +1348,10 @@
         <icon>XIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
+    <control controlID="787" controlTypeID="com.balsamiq.mockups::StickyNote" x="2172" y="328" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="218" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Unify%20with%20list%20box%20layout</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

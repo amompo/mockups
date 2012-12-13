@@ -1799,7 +1799,7 @@
         <text>Set%20this%20as%20your%20main%20photo</text>
       </controlProperties>
     </control>
-    <control controlID="2764" controlTypeID="com.balsamiq.mockups::Label" x="466" y="811" w="494" h="16" measuredW="239" measuredH="17" zOrder="275" locked="false" isInGroup="-1">
+    <control controlID="2764" controlTypeID="com.balsamiq.mockups::Label" x="466" y="811" w="494" h="16" measuredW="241" measuredH="17" zOrder="275" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
         <size>10</size>
@@ -1817,6 +1817,12 @@
         <color>10027263</color>
         <icon>RedoIcon%7Csmall</icon>
         <rotation>270</rotation>
+      </controlProperties>
+    </control>
+    <control controlID="2767" controlTypeID="com.balsamiq.mockups::Icon" x="950" y="243" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="278" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <icon>XIcon%7Csmall</icon>
       </controlProperties>
     </control>
   </controls>

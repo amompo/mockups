@@ -781,6 +781,8 @@
     </control>
     <control controlID="1934" controlTypeID="com.balsamiq.mockups::List" x="148" y="621" w="-1" h="-1" measuredW="100" measuredH="126" zOrder="223" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>%2CT%20WEB%20Home%26bm%3BT%20WEB%20Home.bmml%26bm%3BT%20WEB%20Home.bmml%26bm%3BT%20WEB%20Home.bmml%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2284%2C609%2C184%2C630%22%20href%3D%22T%2520WEB%2520Home.bmml%22%20alt%3D%22T%20WEB%20Home%22%20id%3D%221934_0%22/%3E%0A</map>
         <text>Log%20out%0AHome%0AYour%20Profile%0AYour%20account</text>
       </controlProperties>
     </control>

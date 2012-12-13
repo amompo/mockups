@@ -167,6 +167,8 @@
     </control>
     <control controlID="1819" controlTypeID="com.balsamiq.mockups::Image" x="96" y="586" w="60" h="58" measuredW="256" measuredH="256" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>T%20WEB%20Home%20-%20Information%20-%20Packages%26bm%3BT%20WEB%20Home%20-%20Information%20-%20Packages.bmml%26bm%3BT%20WEB%20Home%20-%20Information%20-%20Packages.bmml%26bm%3BT%20WEB%20Home%20-%20Information%20-%20Packages.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C552%2C92%2C610%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Information%2520-%2520Packages.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Information%20-%20Packages%22%20id%3D%221819%22/%3E</map>
         <src>./help.png</src>
         <text/>
       </controlProperties>
@@ -193,6 +195,8 @@
     </control>
     <control controlID="1824" controlTypeID="com.balsamiq.mockups::Image" x="179" y="586" w="90" h="57" measuredW="508" measuredH="324" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>T%20WEB%20Home%20-%20Social%20-%20Validation%26bm%3BT%20WEB%20Home%20-%20Social%20-%20Validation.bmml%26bm%3BT%20WEB%20Home%20-%20Social%20-%20Validation.bmml%26bm%3BT%20WEB%20Home%20-%20Social%20-%20Validation.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C552%2C205%2C609%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Social%2520-%2520Validation.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Social%20-%20Validation%22%20id%3D%221824%22/%3E</map>
         <src>./social-media.jpg</src>
         <text/>
       </controlProperties>
@@ -309,18 +313,20 @@
         <color>16777215</color>
       </controlProperties>
     </control>
-    <control controlID="1889" controlTypeID="com.balsamiq.mockups::Label" x="208" y="547" w="36" h="13" measuredW="37" measuredH="15" zOrder="47" locked="false" isInGroup="-1">
+    <control controlID="1889" controlTypeID="com.balsamiq.mockups::Label" x="208" y="547" w="36" h="13" measuredW="36" measuredH="15" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
         <size>8</size>
-        <text>Package</text>
+        <text>Account</text>
       </controlProperties>
     </control>
-    <control controlID="1892" controlTypeID="com.balsamiq.mockups::Canvas" x="176" y="418" w="93" h="120" measuredW="100" measuredH="70" zOrder="48" locked="false" isInGroup="-1">
+    <control controlID="1892" controlTypeID="com.balsamiq.mockups::Canvas" x="177" y="442" w="93" h="120" measuredW="100" measuredH="70" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
         <borderStyle>none</borderStyle>
+        <href>T%20WEB%20Home%20-%20Account%20-%20Package%26bm%3BT%20WEB%20Home%20-%20Account%20-%20Package.bmml%26bm%3BT%20WEB%20Home%20-%20Account%20-%20Package.bmml%26bm%3BT%20WEB%20Home%20-%20Account%20-%20Package.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22113%2C408%2C206%2C528%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Account%2520-%2520Package.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Account%20-%20Package%22%20id%3D%221892%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="1895" controlTypeID="com.balsamiq.mockups::Canvas" x="78" y="442" w="93" h="120" measuredW="100" measuredH="70" zOrder="49" locked="false" isInGroup="-1">
@@ -337,13 +343,13 @@
     <control controlID="1909" controlTypeID="com.balsamiq.mockups::Canvas" x="280" y="189" w="91" h="39" measuredW="100" measuredH="70" zOrder="52" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>roundedSolid</borderStyle>
-        <color>6710886</color>
+        <color>16750848</color>
       </controlProperties>
     </control>
     <control controlID="1910" controlTypeID="com.balsamiq.mockups::Label" x="304" y="196" w="-1" h="-1" measuredW="36" measuredH="24" zOrder="55" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
-        <color>16750848</color>
+        <color>6710886</color>
         <size>16</size>
         <text>Mail</text>
       </controlProperties>
@@ -428,6 +434,8 @@
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
+        <href>T%20WEB%20Home%20-%20Preferences%20-%20SMS%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20SMS.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20SMS.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20SMS.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22429%2C162%2C468%2C186%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Preferences%2520-%2520SMS.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Preferences%20-%20SMS%22%20id%3D%221933%22/%3E</map>
         <size>16</size>
         <text>SMS</text>
       </controlProperties>

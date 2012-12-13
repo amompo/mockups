@@ -195,8 +195,8 @@
     </control>
     <control controlID="1824" controlTypeID="com.balsamiq.mockups::Image" x="179" y="586" w="90" h="57" measuredW="508" measuredH="324" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>T%20WEB%20Home%20-%20Social%20-%20Validation%26bm%3BT%20WEB%20Home%20-%20Social%20-%20Validation.bmml%26bm%3BT%20WEB%20Home%20-%20Social%20-%20Validation.bmml%26bm%3BT%20WEB%20Home%20-%20Social%20-%20Validation.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C552%2C205%2C609%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Social%2520-%2520Validation.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Social%20-%20Validation%22%20id%3D%221824%22/%3E</map>
+        <href>F%20WEB%20T%20Registration%20-%20Validation%26bm%3BF%20WEB%20T%20Registration%20-%20Validation.bmml%26bm%3BF%20WEB%20T%20Registration%20-%20Validation.bmml%26bm%3BF%20WEB%20T%20Registration%20-%20Validation.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C552%2C205%2C609%22%20href%3D%22F%2520WEB%2520T%2520Registration%2520-%2520Validation.bmml%22%20alt%3D%22F%20WEB%20T%20Registration%20-%20Validation%22%20id%3D%221824%22/%3E</map>
         <src>./social-media.jpg</src>
         <text/>
       </controlProperties>
@@ -356,65 +356,32 @@
         <text>Mail</text>
       </controlProperties>
     </control>
-    <control controlID="1911" controlTypeID="com.balsamiq.mockups::Label" x="292" y="237" w="-1" h="-1" measuredW="174" measuredH="24" zOrder="57" locked="false" isInGroup="-1">
+    <control controlID="1911" controlTypeID="com.balsamiq.mockups::Label" x="292" y="237" w="-1" h="-1" measuredW="133" measuredH="24" zOrder="57" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
         <italic>true</italic>
         <size>16</size>
-        <text>Telephone%20preferences</text>
+        <text>SMS%20preferences</text>
       </controlProperties>
     </control>
-    <control controlID="1912" controlTypeID="com.balsamiq.mockups::Paragraph" x="292" y="269" w="751" h="80" measuredW="200" measuredH="80" zOrder="58" locked="false" isInGroup="-1">
+    <control controlID="1912" controlTypeID="com.balsamiq.mockups::Paragraph" x="292" y="269" w="751" h="334" measuredW="200" measuredH="80" zOrder="58" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Your%20current%20telephone%20is%3A%09+45%2069696969%0A%20%0AIf%20you%20wish%20to%20change%20the%20telephone%20you%20can%20change%20it%20here.%0ANote%3A%20If%20you%20change%20your%20current%20telephone%20you%20will%20need%20to%20confirm%20it%20again.</text>
-      </controlProperties>
-    </control>
-    <control controlID="1914" controlTypeID="com.balsamiq.mockups::CheckBox" x="292" y="532" w="-1" h="-1" measuredW="229" measuredH="24" zOrder="59" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>selected</state>
-        <text>I%20receive%20a%20new%20message%20in%20Danrent</text>
-      </controlProperties>
-    </control>
-    <control controlID="1915" controlTypeID="com.balsamiq.mockups::CheckBox" x="292" y="552" w="-1" h="-1" measuredW="246" measuredH="24" zOrder="60" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>selected</state>
-        <text>Danrent%20has%20an%20interesting%20deal%20or%20offer</text>
-      </controlProperties>
-    </control>
-    <control controlID="1916" controlTypeID="com.balsamiq.mockups::CheckBox" x="292" y="572" w="-1" h="-1" measuredW="290" measuredH="24" zOrder="61" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>selected</state>
-        <text>Someone%20posted%20a%20new%20comment%20on%20my%20profile</text>
-      </controlProperties>
-    </control>
-    <control controlID="1917" controlTypeID="com.balsamiq.mockups::CheckBox" x="292" y="592" w="-1" h="-1" measuredW="138" measuredH="24" zOrder="62" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>selected</state>
-        <text>Someone%20trusts%20me.</text>
-      </controlProperties>
-    </control>
-    <control controlID="1918" controlTypeID="com.balsamiq.mockups::Label" x="292" y="506" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="63" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Allow%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="1919" controlTypeID="com.balsamiq.mockups::CheckBox" x="292" y="612" w="-1" h="-1" measuredW="343" measuredH="24" zOrder="64" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>selected</state>
-        <text>When%20a%20friend%20from%20other%20of%20my%20social%20sites%20joins%20Danrent</text>
+        <text>Your%20currently%20have%2034%20FREE%20SMS%20left.%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0AThere%20are%20some%20cases%20when%20the%20lanlord%20of%20a%20property%20does%20not%20want%20to%20display%20their%20telephone%20number%20because%20of%20their%20privacy%20settings.%20This%20is%20the%20time%20when%20you%20can%20instead%20send%20SMS%20messages%20to%20contact%20the%20landlord.%0A%20%0ADepending%20on%20the%20package%20that%20you%20purchased%20you%20have%20a%20certain%20amount%20of%20free%20messages%20that%20you%20can%20send.%0A%20%0AFREE%20Trial%09%09None%0A30%20days%09%09%0950%0A60%20days%09%09%09100%0APriority%09%09%09150%0A%20%0AClick%20one%20of%20the%20options%20bellow%20if%20you%20wish%20to%20purchase%20more.</text>
       </controlProperties>
     </control>
     <control controlID="1930" controlTypeID="com.balsamiq.mockups::Canvas" x="374" y="189" w="91" h="39" measuredW="100" measuredH="70" zOrder="50" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>roundedSolid</borderStyle>
-        <color>16750848</color>
+        <color>13421772</color>
       </controlProperties>
     </control>
     <control controlID="1931" controlTypeID="com.balsamiq.mockups::Label" x="380" y="196" w="-1" h="-1" measuredW="81" measuredH="24" zOrder="51" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
+        <href>T%20WEB%20Home%20-%20Preferences%20-%20Telephone%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20Telephone.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20Telephone.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20Telephone.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22316%2C162%2C397%2C186%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Preferences%2520-%2520Telephone.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Preferences%20-%20Telephone%22%20id%3D%221931%22/%3E</map>
         <size>16</size>
         <text>Telephone</text>
       </controlProperties>
@@ -422,57 +389,57 @@
     <control controlID="1932" controlTypeID="com.balsamiq.mockups::Canvas" x="469" y="189" w="91" h="39" measuredW="100" measuredH="70" zOrder="53" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>roundedSolid</borderStyle>
-        <color>13421772</color>
+        <color>16750848</color>
       </controlProperties>
     </control>
     <control controlID="1933" controlTypeID="com.balsamiq.mockups::Label" x="493" y="196" w="-1" h="-1" measuredW="39" measuredH="24" zOrder="54" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
-        <href>T%20WEB%20Home%20-%20Preferences%20-%20SMS%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20SMS.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20SMS.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20SMS.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22429%2C162%2C468%2C186%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Preferences%2520-%2520SMS.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Preferences%20-%20SMS%22%20id%3D%221933%22/%3E</map>
         <size>16</size>
         <text>SMS</text>
       </controlProperties>
     </control>
-    <control controlID="1945" controlTypeID="com.balsamiq.mockups::TextInput" x="292" y="357" w="168" h="-1" measuredW="118" measuredH="24" zOrder="65" locked="false" isInGroup="-1">
+    <control controlID="1972" controlTypeID="com.balsamiq.mockups::Canvas" x="294" y="298" w="480" h="104" measuredW="100" measuredH="70" zOrder="59" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Telephone%20number</text>
+        <borderStyle>none</borderStyle>
+        <color>14540253</color>
       </controlProperties>
     </control>
-    <control controlID="1946" controlTypeID="com.balsamiq.mockups::Paragraph" x="292" y="397" w="252" h="80" measuredW="200" measuredH="80" zOrder="66" locked="false" isInGroup="-1">
+    <control controlID="1973" controlTypeID="com.balsamiq.mockups::Label" x="313" y="305" w="-1" h="-1" measuredW="42" measuredH="26" zOrder="60" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>0</color>
-        <text>You%20will%20receive%20a%20code%20by%20SMS%20to%20verify%20your%20telephone%20number</text>
+        <bold>true</bold>
+        <color>6710886</color>
+        <size>18</size>
+        <text>SMS</text>
       </controlProperties>
     </control>
-    <control controlID="1947" controlTypeID="com.balsamiq.mockups::TextInput" x="292" y="448" w="168" h="-1" measuredW="41" measuredH="24" zOrder="67" locked="false" isInGroup="-1">
+    <control controlID="1974" controlTypeID="com.balsamiq.mockups::RadioButton" x="315" y="331" w="-1" h="-1" measuredW="215" measuredH="24" zOrder="61" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Code</text>
+        <color>6710886</color>
+        <size>13</size>
+        <state>disabled</state>
+        <text>Allow%20to%20be%20contacted%20only%20by%20SMS</text>
       </controlProperties>
     </control>
-    <control controlID="1948" controlTypeID="com.balsamiq.mockups::Button" x="483" y="357" w="57" h="24" measuredW="53" measuredH="24" zOrder="68" locked="false" isInGroup="-1">
+    <control controlID="1975" controlTypeID="com.balsamiq.mockups::RadioButton" x="315" y="352" w="-1" h="-1" measuredW="304" measuredH="24" zOrder="62" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>16750848</color>
-        <text>Send</text>
+        <color>6710886</color>
+        <size>13</size>
+        <state>disabled</state>
+        <text>Allow%20to%20be%20contacted%20both%20by%20telephone%20and%20SMS</text>
       </controlProperties>
     </control>
-    <control controlID="1949" controlTypeID="com.balsamiq.mockups::Button" x="481" y="448" w="-1" h="-1" measuredW="57" measuredH="24" zOrder="69" locked="false" isInGroup="-1">
+    <control controlID="1995" controlTypeID="com.balsamiq.mockups::Image" x="450" y="599" w="70" h="72" measuredW="128" measuredH="128" zOrder="63" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>16750848</color>
-        <text>Verify</text>
+        <src>./Sms.png</src>
+        <text/>
       </controlProperties>
     </control>
-    <control controlID="1950" controlTypeID="com.balsamiq.mockups::Icon" x="556" y="448" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="70" locked="false" isInGroup="-1">
+    <control controlID="1997" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="298" y="604" w="-1" h="-1" measuredW="141" measuredH="60" zOrder="64" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>13576743</color>
-        <icon>XIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="1951" controlTypeID="com.balsamiq.mockups::Icon" x="556" y="357" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="71" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>40463</color>
-        <icon>CheckMarkIcon%7Csmall</icon>
+        <size>12</size>
+        <text>%28o%29%20100%20SMS%20for%2020%20DKK%0A%28%20%29%2050%20SMS%20for%2010%20DKK%0A%28%20%29%2030%20SMS%20for%094%20DKK</text>
       </controlProperties>
     </control>
   </controls>

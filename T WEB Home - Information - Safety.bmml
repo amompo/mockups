@@ -165,11 +165,11 @@
         <text>Rent%20your%20home</text>
       </controlProperties>
     </control>
-    <control controlID="1819" controlTypeID="com.balsamiq.mockups::Image" x="96" y="586" w="60" h="58" measuredW="256" measuredH="256" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="1819" controlTypeID="com.balsamiq.mockups::Image" x="98" y="586" w="60" h="58" measuredW="128" measuredH="128" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>T%20WEB%20Home%20-%20Information%20-%20Packages%26bm%3BT%20WEB%20Home%20-%20Information%20-%20Packages.bmml%26bm%3BT%20WEB%20Home%20-%20Information%20-%20Packages.bmml%26bm%3BT%20WEB%20Home%20-%20Information%20-%20Packages.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C552%2C92%2C610%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Information%2520-%2520Packages.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Information%20-%20Packages%22%20id%3D%221819%22/%3E</map>
-        <src>./help.png</src>
+        <href>T%20WEB%20Home%20-%20Account%20-%20Package%26bm%3BT%20WEB%20Home%20-%20Account%20-%20Package.bmml%26bm%3BT%20WEB%20Home%20-%20Account%20-%20Package.bmml%26bm%3BT%20WEB%20Home%20-%20Account%20-%20Package.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C552%2C94%2C610%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Account%2520-%2520Package.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Account%20-%20Package%22%20id%3D%221819%22/%3E</map>
+        <src>./free-trial.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -185,15 +185,15 @@
         <color>16777215</color>
       </controlProperties>
     </control>
-    <control controlID="1823" controlTypeID="com.balsamiq.mockups::Label" x="102" y="668" w="-1" h="-1" measuredW="47" measuredH="15" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="1823" controlTypeID="com.balsamiq.mockups::Label" x="110" y="668" w="-1" h="-1" measuredW="36" measuredH="15" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
         <size>8</size>
-        <text>Information</text>
+        <text>Account</text>
       </controlProperties>
     </control>
-    <control controlID="1824" controlTypeID="com.balsamiq.mockups::Image" x="179" y="586" w="90" h="57" measuredW="508" measuredH="324" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="1824" controlTypeID="com.balsamiq.mockups::Image" x="179" y="586" w="90" h="57" measuredW="508" measuredH="324" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <href>T%20WEB%20Home%20-%20Social%20-%20Validation%26bm%3BT%20WEB%20Home%20-%20Social%20-%20Validation.bmml%26bm%3BT%20WEB%20Home%20-%20Social%20-%20Validation.bmml%26bm%3BT%20WEB%20Home%20-%20Social%20-%20Validation.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C552%2C205%2C609%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Social%2520-%2520Validation.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Social%20-%20Validation%22%20id%3D%221824%22/%3E</map>
@@ -221,39 +221,7 @@
         <text>Social</text>
       </controlProperties>
     </control>
-    <control controlID="1829" controlTypeID="com.balsamiq.mockups::Image" x="82" y="189" w="187" h="182" measuredW="460" measuredH="460" zOrder="31" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./dodgy-ios-preferences-icon.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="1830" controlTypeID="com.balsamiq.mockups::Canvas" x="82" y="402" w="187" h="31" measuredW="100" measuredH="70" zOrder="32" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>16777215</color>
-      </controlProperties>
-    </control>
-    <control controlID="1832" controlTypeID="com.balsamiq.mockups::Canvas" x="82" y="369" w="187" h="31" measuredW="100" measuredH="70" zOrder="33" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>16777215</color>
-      </controlProperties>
-    </control>
-    <control controlID="1833" controlTypeID="com.balsamiq.mockups::Label" x="121" y="403" w="-1" h="-1" measuredW="107" measuredH="26" zOrder="34" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>6710886</color>
-        <size>18</size>
-        <text>Preferences</text>
-      </controlProperties>
-    </control>
-    <control controlID="1849" controlTypeID="com.balsamiq.mockups::Canvas" x="82" y="189" w="188" h="244" measuredW="100" measuredH="70" zOrder="37" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>0</backgroundAlpha>
-        <borderStyle>none</borderStyle>
-      </controlProperties>
-    </control>
-    <control controlID="1871" controlTypeID="com.balsamiq.mockups::IconLabel" x="81" y="161" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
+    <control controlID="1871" controlTypeID="com.balsamiq.mockups::IconLabel" x="81" y="161" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <href>T%20WEB%20Home%26bm%3BT%20WEB%20Home.bmml%26bm%3BT%20WEB%20Home.bmml%26bm%3BT%20WEB%20Home.bmml</href>
         <icon>LeftArrowIcon%7Cxsmall</icon>
@@ -262,32 +230,32 @@
         <text>Back%20to%20home</text>
       </controlProperties>
     </control>
-    <control controlID="1872" controlTypeID="com.balsamiq.mockups::Image" x="81" y="442" w="91" h="91" measuredW="300" measuredH="294" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="1872" controlTypeID="com.balsamiq.mockups::Image" x="81" y="442" w="91" h="91" measuredW="300" measuredH="294" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./a92scarlett-johansson.jpg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="1873" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="547" w="91" h="15" measuredW="100" measuredH="70" zOrder="40" locked="false" isInGroup="-1">
+    <control controlID="1873" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="547" w="91" h="15" measuredW="100" measuredH="70" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
       </controlProperties>
     </control>
-    <control controlID="1874" controlTypeID="com.balsamiq.mockups::Label" x="101" y="550" w="54" h="11" measuredW="64" measuredH="15" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="1874" controlTypeID="com.balsamiq.mockups::Label" x="101" y="550" w="54" h="11" measuredW="64" measuredH="15" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
         <size>8</size>
         <text>New%20York%20-%20USA</text>
       </controlProperties>
     </control>
-    <control controlID="1875" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="532" w="91" h="15" measuredW="100" measuredH="70" zOrder="42" locked="false" isInGroup="-1">
+    <control controlID="1875" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="532" w="91" h="15" measuredW="100" measuredH="70" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
       </controlProperties>
     </control>
-    <control controlID="1876" controlTypeID="com.balsamiq.mockups::Label" x="93" y="535" w="68" h="13" measuredW="66" measuredH="15" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="1876" controlTypeID="com.balsamiq.mockups::Label" x="93" y="535" w="68" h="13" measuredW="66" measuredH="15" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
@@ -295,184 +263,147 @@
         <text>Hi%2C%20I%20am%20Scarlett</text>
       </controlProperties>
     </control>
-    <control controlID="1885" controlTypeID="com.balsamiq.mockups::Image" x="179" y="442" w="91" h="91" measuredW="128" measuredH="128" zOrder="44" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./free-trial.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="1886" controlTypeID="com.balsamiq.mockups::Canvas" x="179" y="547" w="91" h="15" measuredW="100" measuredH="70" zOrder="45" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>16777215</color>
-      </controlProperties>
-    </control>
-    <control controlID="1888" controlTypeID="com.balsamiq.mockups::Canvas" x="179" y="532" w="91" h="15" measuredW="100" measuredH="70" zOrder="46" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>16777215</color>
-      </controlProperties>
-    </control>
-    <control controlID="1889" controlTypeID="com.balsamiq.mockups::Label" x="208" y="547" w="36" h="13" measuredW="36" measuredH="15" zOrder="47" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>6710886</color>
-        <size>8</size>
-        <text>Account</text>
-      </controlProperties>
-    </control>
-    <control controlID="1892" controlTypeID="com.balsamiq.mockups::Canvas" x="176" y="442" w="93" h="120" measuredW="100" measuredH="70" zOrder="48" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>0</backgroundAlpha>
-        <borderStyle>none</borderStyle>
-        <href>T%20WEB%20Home%20-%20Account%20-%20Package%26bm%3BT%20WEB%20Home%20-%20Account%20-%20Package.bmml%26bm%3BT%20WEB%20Home%20-%20Account%20-%20Package.bmml%26bm%3BT%20WEB%20Home%20-%20Account%20-%20Package.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C408%2C205%2C528%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Account%2520-%2520Package.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Account%20-%20Package%22%20id%3D%221892%22/%3E</map>
-      </controlProperties>
-    </control>
-    <control controlID="1895" controlTypeID="com.balsamiq.mockups::Canvas" x="78" y="442" w="93" h="120" measuredW="100" measuredH="70" zOrder="49" locked="false" isInGroup="-1">
+    <control controlID="1892" controlTypeID="com.balsamiq.mockups::Canvas" x="176" y="418" w="93" h="120" measuredW="100" measuredH="70" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
         <borderStyle>none</borderStyle>
       </controlProperties>
     </control>
-    <control controlID="1896" controlTypeID="com.balsamiq.mockups::Canvas" x="280" y="222" w="785" h="461" measuredW="100" measuredH="70" zOrder="56" locked="false" isInGroup="-1">
+    <control controlID="1895" controlTypeID="com.balsamiq.mockups::Canvas" x="78" y="442" w="93" h="120" measuredW="100" measuredH="70" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1896" controlTypeID="com.balsamiq.mockups::Canvas" x="280" y="222" w="785" h="461" measuredW="100" measuredH="70" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
       </controlProperties>
     </control>
-    <control controlID="1909" controlTypeID="com.balsamiq.mockups::Canvas" x="280" y="189" w="91" h="39" measuredW="100" measuredH="70" zOrder="52" locked="false" isInGroup="-1">
+    <control controlID="1909" controlTypeID="com.balsamiq.mockups::Canvas" x="280" y="189" w="91" h="39" measuredW="100" measuredH="70" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>roundedSolid</borderStyle>
         <color>13421772</color>
       </controlProperties>
     </control>
-    <control controlID="1910" controlTypeID="com.balsamiq.mockups::Label" x="304" y="196" w="-1" h="-1" measuredW="36" measuredH="24" zOrder="55" locked="false" isInGroup="-1">
+    <control controlID="1910" controlTypeID="com.balsamiq.mockups::Label" x="286" y="196" w="-1" h="-1" measuredW="76" measuredH="24" zOrder="46" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
-        <href>T%20WEB%20Home%20-%20Preferences%20-%20Mail%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20Mail.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20Mail.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20Mail.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22240%2C162%2C276%2C186%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Preferences%2520-%2520Mail.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Preferences%20-%20Mail%22%20id%3D%221910%22/%3E</map>
+        <href>T%20WEB%20Home%20-%20Information%20-%20Packages%26bm%3BT%20WEB%20Home%20-%20Information%20-%20Packages.bmml%26bm%3BT%20WEB%20Home%20-%20Information%20-%20Packages.bmml%26bm%3BT%20WEB%20Home%20-%20Information%20-%20Packages.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22222%2C162%2C298%2C186%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Information%2520-%2520Packages.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Information%20-%20Packages%22%20id%3D%221910%22/%3E</map>
         <size>16</size>
-        <text>Mail</text>
+        <text>Packages</text>
       </controlProperties>
     </control>
-    <control controlID="1911" controlTypeID="com.balsamiq.mockups::Label" x="292" y="237" w="-1" h="-1" measuredW="174" measuredH="24" zOrder="57" locked="false" isInGroup="-1">
+    <control controlID="1930" controlTypeID="com.balsamiq.mockups::Canvas" x="374" y="189" w="91" h="39" measuredW="100" measuredH="70" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="1931" controlTypeID="com.balsamiq.mockups::Label" x="396" y="196" w="-1" h="-1" measuredW="40" measuredH="24" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6710886</color>
+        <href>T%20WEB%20Home%20-%20Information%20-%20FQA%26bm%3BT%20WEB%20Home%20-%20Information%20-%20FQA.bmml%26bm%3BT%20WEB%20Home%20-%20Information%20-%20FQA.bmml%26bm%3BT%20WEB%20Home%20-%20Information%20-%20FQA.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22332%2C162%2C372%2C186%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Information%2520-%2520FQA.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Information%20-%20FQA%22%20id%3D%221931%22/%3E</map>
+        <size>16</size>
+        <text>FAQ</text>
+      </controlProperties>
+    </control>
+    <control controlID="1932" controlTypeID="com.balsamiq.mockups::Canvas" x="469" y="189" w="91" h="39" measuredW="100" measuredH="70" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>16750848</color>
+      </controlProperties>
+    </control>
+    <control controlID="1933" controlTypeID="com.balsamiq.mockups::Label" x="487" y="196" w="-1" h="-1" measuredW="54" measuredH="24" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6710886</color>
+        <size>16</size>
+        <text>Safety</text>
+      </controlProperties>
+    </control>
+    <control controlID="1934" controlTypeID="com.balsamiq.mockups::Image" x="82" y="190" w="187" h="182" measuredW="256" measuredH="256" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./help.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1935" controlTypeID="com.balsamiq.mockups::Canvas" x="82" y="403" w="187" h="31" measuredW="100" measuredH="70" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="1936" controlTypeID="com.balsamiq.mockups::Canvas" x="82" y="189" w="187" h="212" measuredW="100" measuredH="70" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="1937" controlTypeID="com.balsamiq.mockups::Label" x="123" y="404" w="-1" h="-1" measuredW="102" measuredH="26" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6710886</color>
+        <size>18</size>
+        <text>Information</text>
+      </controlProperties>
+    </control>
+    <control controlID="1944" controlTypeID="com.balsamiq.mockups::Canvas" x="179" y="548" w="90" h="14" measuredW="100" measuredH="70" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="1945" controlTypeID="com.balsamiq.mockups::Canvas" x="179" y="444" w="90" h="101" measuredW="100" measuredH="70" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="1946" controlTypeID="com.balsamiq.mockups::Label" x="200" y="545" w="-1" h="-1" measuredW="49" measuredH="15" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6710886</color>
+        <size>8</size>
+        <text>Preferences</text>
+      </controlProperties>
+    </control>
+    <control controlID="1947" controlTypeID="com.balsamiq.mockups::Image" x="179" y="463" w="90" h="57" measuredW="508" measuredH="324" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./social-media.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1948" controlTypeID="com.balsamiq.mockups::Image" x="179" y="442" w="89" h="90" measuredW="460" measuredH="460" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>T%20WEB%20Home%20-%20Preferences%20-%20Mail%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20Mail.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20Mail.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20Mail.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C408%2C204%2C498%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Preferences%2520-%2520Mail.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Preferences%20-%20Mail%22%20id%3D%221948%22/%3E</map>
+        <src>./dodgy-ios-preferences-icon.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1949" controlTypeID="com.balsamiq.mockups::Canvas" x="179" y="531" w="89" h="15" measuredW="100" measuredH="70" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="1980" controlTypeID="com.balsamiq.mockups::Label" x="292" y="237" w="-1" h="-1" measuredW="54" measuredH="24" zOrder="58" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
         <italic>true</italic>
         <size>16</size>
-        <text>Telephone%20preferences</text>
+        <text>Safety</text>
       </controlProperties>
     </control>
-    <control controlID="1912" controlTypeID="com.balsamiq.mockups::Paragraph" x="292" y="269" w="751" h="80" measuredW="200" measuredH="80" zOrder="58" locked="false" isInGroup="-1">
+    <control controlID="1981" controlTypeID="com.balsamiq.mockups::Paragraph" x="294" y="269" w="747" h="390" measuredW="200" measuredH="80" zOrder="59" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Your%20current%20telephone%20is%3A%09+45%2069696969%0A%20%0AIf%20you%20wish%20to%20change%20the%20telephone%20you%20can%20change%20it%20here.%0ANote%3A%20If%20you%20change%20your%20current%20telephone%20you%20will%20need%20to%20confirm%20it%20again.</text>
-      </controlProperties>
-    </control>
-    <control controlID="1914" controlTypeID="com.balsamiq.mockups::CheckBox" x="292" y="532" w="-1" h="-1" measuredW="229" measuredH="24" zOrder="59" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>selected</state>
-        <text>I%20receive%20a%20new%20message%20in%20Danrent</text>
-      </controlProperties>
-    </control>
-    <control controlID="1915" controlTypeID="com.balsamiq.mockups::CheckBox" x="292" y="552" w="-1" h="-1" measuredW="246" measuredH="24" zOrder="60" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>selected</state>
-        <text>Danrent%20has%20an%20interesting%20deal%20or%20offer</text>
-      </controlProperties>
-    </control>
-    <control controlID="1916" controlTypeID="com.balsamiq.mockups::CheckBox" x="292" y="572" w="-1" h="-1" measuredW="290" measuredH="24" zOrder="61" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>selected</state>
-        <text>Someone%20posted%20a%20new%20comment%20on%20my%20profile</text>
-      </controlProperties>
-    </control>
-    <control controlID="1917" controlTypeID="com.balsamiq.mockups::CheckBox" x="292" y="592" w="-1" h="-1" measuredW="138" measuredH="24" zOrder="62" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>selected</state>
-        <text>Someone%20trusts%20me.</text>
-      </controlProperties>
-    </control>
-    <control controlID="1918" controlTypeID="com.balsamiq.mockups::Label" x="292" y="506" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="63" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Allow%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="1919" controlTypeID="com.balsamiq.mockups::CheckBox" x="292" y="612" w="-1" h="-1" measuredW="343" measuredH="24" zOrder="64" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>selected</state>
-        <text>When%20a%20friend%20from%20other%20of%20my%20social%20sites%20joins%20Danrent</text>
-      </controlProperties>
-    </control>
-    <control controlID="1930" controlTypeID="com.balsamiq.mockups::Canvas" x="374" y="189" w="91" h="39" measuredW="100" measuredH="70" zOrder="50" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>roundedSolid</borderStyle>
-        <color>16750848</color>
-      </controlProperties>
-    </control>
-    <control controlID="1931" controlTypeID="com.balsamiq.mockups::Label" x="380" y="196" w="-1" h="-1" measuredW="81" measuredH="24" zOrder="51" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>6710886</color>
-        <size>16</size>
-        <text>Telephone</text>
-      </controlProperties>
-    </control>
-    <control controlID="1932" controlTypeID="com.balsamiq.mockups::Canvas" x="469" y="189" w="91" h="39" measuredW="100" measuredH="70" zOrder="53" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>roundedSolid</borderStyle>
-        <color>13421772</color>
-      </controlProperties>
-    </control>
-    <control controlID="1933" controlTypeID="com.balsamiq.mockups::Label" x="493" y="196" w="-1" h="-1" measuredW="39" measuredH="24" zOrder="54" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>6710886</color>
-        <href>T%20WEB%20Home%20-%20Preferences%20-%20SMS%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20SMS.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20SMS.bmml%26bm%3BT%20WEB%20Home%20-%20Preferences%20-%20SMS.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22429%2C162%2C468%2C186%22%20href%3D%22T%2520WEB%2520Home%2520-%2520Preferences%2520-%2520SMS.bmml%22%20alt%3D%22T%20WEB%20Home%20-%20Preferences%20-%20SMS%22%20id%3D%221933%22/%3E</map>
-        <size>16</size>
-        <text>SMS</text>
-      </controlProperties>
-    </control>
-    <control controlID="1945" controlTypeID="com.balsamiq.mockups::TextInput" x="292" y="357" w="168" h="-1" measuredW="118" measuredH="24" zOrder="65" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Telephone%20number</text>
-      </controlProperties>
-    </control>
-    <control controlID="1946" controlTypeID="com.balsamiq.mockups::Paragraph" x="292" y="397" w="252" h="80" measuredW="200" measuredH="80" zOrder="66" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>0</color>
-        <text>You%20will%20receive%20a%20code%20by%20SMS%20to%20verify%20your%20telephone%20number</text>
-      </controlProperties>
-    </control>
-    <control controlID="1947" controlTypeID="com.balsamiq.mockups::TextInput" x="292" y="448" w="168" h="-1" measuredW="41" measuredH="24" zOrder="67" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Code</text>
-      </controlProperties>
-    </control>
-    <control controlID="1948" controlTypeID="com.balsamiq.mockups::Button" x="483" y="357" w="57" h="24" measuredW="53" measuredH="24" zOrder="68" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>16750848</color>
-        <text>Send</text>
-      </controlProperties>
-    </control>
-    <control controlID="1949" controlTypeID="com.balsamiq.mockups::Button" x="481" y="448" w="-1" h="-1" measuredW="57" measuredH="24" zOrder="69" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>16750848</color>
-        <text>Verify</text>
-      </controlProperties>
-    </control>
-    <control controlID="1950" controlTypeID="com.balsamiq.mockups::Icon" x="556" y="448" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="70" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>13576743</color>
-        <icon>XIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="1951" controlTypeID="com.balsamiq.mockups::Icon" x="556" y="357" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="71" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>40463</color>
-        <icon>CheckMarkIcon%7Csmall</icon>
+        <text>Safety%20information%0A%20%0ADanrent%20is%20an%20online%20platform%20based%20on%20demand%20and%20offer%20of%20Landlord%20and%20Renters.%20In%20some%20cases%20Danrent%20has%20detected%20fraud%20atempts%20for%20which%20we%20have%20prepared%20this%20Guide%20to%20Safe%20Rent%20where%20you%20can%20find%20some%20simple%20rules%20and%20recommendations%20to%20avoid%20being%20cheated.%0A%20%0AHow%20to%20detect%20false%20ads.%0A%20%0AThe%20property%20is%20%u201Cto%20good%20to%20be%20true%u201D%2C%20it%20is%20situated%20in%20central%20areas%20and%20the%20price%20is%20too%20low.%0AThe%20landlord%20lives%20outside%20of%20Denmark.%0AIn%20the%20text%20of%20the%20ad%20it%20tells%20you%20that%20he%20will%20only%20answer%20to%20emails.%0AThe%20landlord%20has%20a%20telephone%20that%20does%20not%20exist%2C%20or%20with%20an%20area%20code%20that%20does%20not%20belong%20to%20the%20property%20area.%0ATelephone%20numbers%20that%20have%20special%20rates%20such%20as%20information%20extensions.%0ASuspicious%20photos%20which%20seems%20to%20show%20different%20properties%20at%20once.%20A%20property%20usually%20has%20similar%20floors%2C%20wall%20papers%2C%20painting%20in%20other%20words%20a%20similar%20style.%0AThe%20landlord%20says%20to%20be%20in%20a%20foreign%20country%20and%20wants%20to%20use%20a%20third%20company%20to%20do%20the%20intermediation.%0AThe%20landlord%20requires%20sending%20money%20to%20an%20account%20to%20formalise%20a%20reserve%20or%20to%20have%20the%20first%20month%20of%20rental%20in%20advance.%0A%20%0ARecommendations%20to%20avoid%20being%20cheated%0A%20%0ADon%27t%20send%20money%20in%20advance%20as%20a%20downpayment%2C%20a%20reserve%20or%20any%20other%20reason.%0ADon%27t%20believe%20on%20messages%20that%20say%20to%20be%20coming%20from%20Danrent%20if%20you%20see%20that%20they%20might%20be%20suspicious.%20Remenber%20that%20Danrent%20does%20not%20take%20part%20in%20any%20rental%20transaction%20or%20participate%20in%20anyway%20between%20the%20landlord%20and%20the%20tenant%20other%20than%20providing%20an%20online%20platform%20where%20both%20of%20you%20can%20meet.%0ADon%27t%20trust%20landlords%20who%20state%20that%20they%20can%27t%20talk%20by%20telephone%20for%20reasons%20that%20seem%20suspicious.%0ANever%20respond%20to%20messages%20or%20emails%20that%20require%20private%20data%20in%20our%20name.%0ANever%20in%20any%20case%20give%20you%20credit%20card%20number%20information%20to%20other%20users.%0A%20%0AWhat%20should%20you%20do%20in%20case%20you%20find%20a%20fake%20property%2C%20landlord%20or%20tenant.%0A%20%0AHelp%20the%20community%20to%20identify%20it%20by%20making%20a%20comment%20in%20%u201CThe%20Danrent%20Community%u201D%0AHelp%20us%20by%20sending%20us%20an%20email%20with%20the%20full%20user%20name%20or/and%20the%20URL%20of%20the%20fake%20property.%0AMake%20a%20comment%20of%20the%20landlord%20or%20tenant%20profile%20to%20alert%20the%20rest%20of%20the%20users.%0A%20%0AImportant%20Notice%0A%20%0ADanrent%20is%20only%20an%20online%20platform%20where%20tenants%20and%20landlords%20meet%20each%20other%20to%20make%20their%20own%20rental%20deals.%20Danrent%20provides%20this%20recommendations%20to%20inform%20of%20possible%20frauds%2C%20but%20Danrent%20cannot%20in%20anyway%20take%20partial%20or%20total%20responsibility%20for%20any%20fraudulent%20act%20that%20takes%20place%20and%20these%20recommendations%20constitute%20only%20an%20attempt%20to%20help%20users%20diminish%20the%20possibilities%20of%20being%20cheated.</text>
       </controlProperties>
     </control>
   </controls>
