@@ -440,5 +440,10 @@
         <text>SMS</text>
       </controlProperties>
     </control>
+    <control controlID="1934" controlTypeID="com.balsamiq.mockups::StickyNote" x="582" y="182" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Language%20-%20currency%20-%20units</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

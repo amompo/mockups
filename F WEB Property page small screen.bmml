@@ -536,13 +536,13 @@
         <icon>DotHollowIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="1882" controlTypeID="com.balsamiq.mockups::SubTitle" x="728" y="903" w="135" h="-1" measuredW="100" measuredH="24" zOrder="84" locked="false" isInGroup="-1">
+    <control controlID="1882" controlTypeID="com.balsamiq.mockups::SubTitle" x="728" y="903" w="135" h="-1" measuredW="56" measuredH="24" zOrder="84" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <borderColor>15658734</borderColor>
         <color>14540253</color>
         <size>16</size>
-        <text>Similar%20posts</text>
+        <text>Similar</text>
       </controlProperties>
     </control>
     <control controlID="1898" controlTypeID="com.balsamiq.mockups::Canvas" x="528" y="884" w="49" h="48" measuredW="100" measuredH="70" zOrder="85" locked="false" isInGroup="-1">
